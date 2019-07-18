@@ -11,7 +11,7 @@ Welcome to the Progression at Bright repository 💪
 
 **Get stuck? There's a glossary at the bottom of this readme!**
 
-## 🤯 Where am I?
+## 🤯 Where am I??
 
 Welcome to GitHub!
 

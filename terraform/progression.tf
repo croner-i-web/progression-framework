@@ -11,7 +11,7 @@ provider "azurerm" {
 }
 
 variable "webname" {
-    type = "string"
+    type    = "string"
     default = "progression-framework"
 }
 
@@ -21,12 +21,12 @@ resource "azurerm_resource_group" "rg-progression-framework" {
 }
 
 resource "azurerm_storage_account" "progressionframework" {
-    name = "briprgfwk140916"
-    resource_group_name = "${azurerm_resource_group.rg-progression-framework.name}"
-    location = "${azurerm_resource_group.rg-progression-framework.location}"
-    account_tier = "Standard"
+    name                      = "briprgfwk140916"
+    resource_group_name       = "${azurerm_resource_group.rg-progression-framework.name}"
+    location                  = "${azurerm_resource_group.rg-progression-framework.location}"
+    account_tier              = "Standard"
     account_replication_type  = "LRS"
-    account_kind = "StorageV2"
+    account_kind              = "StorageV2"
 }
 
 resource "null_resource" "azure-login" {
@@ -48,7 +48,7 @@ resource "azurerm_cdn_profile" "progressionframework-cdn-profile" {
   location            = "${azurerm_resource_group.rg-progression-framework.location}"
   resource_group_name = "${azurerm_resource_group.rg-progression-framework.name}"
   sku                 = "Standard_Microsoft"
-  depends_on = ["null_resource.progression-framework-static"]
+  depends_on          = ["null_resource.progression-framework-static"]
 }
 
 resource "azurerm_cdn_endpoint" "progressionframework-cdn-endpoint" {
@@ -56,13 +56,12 @@ resource "azurerm_cdn_endpoint" "progressionframework-cdn-endpoint" {
   profile_name        = "${azurerm_cdn_profile.progressionframework-cdn-profile.name}"
   location            = "${azurerm_resource_group.rg-progression-framework.location}"
   resource_group_name = "${azurerm_resource_group.rg-progression-framework.name}"
-  origin_host_header = replace(replace("${azurerm_storage_account.progressionframework.primary_web_endpoint}","https://",""),"/","")
+  origin_host_header  = replace(replace("${azurerm_storage_account.progressionframework.primary_web_endpoint}","https://",""),"/","")
   optimization_type   = "GeneralWebDelivery"
-
   
   origin {
-    name      = "${var.webname}-${azurerm_storage_account.progressionframework.name}"
-    host_name = replace(replace("${azurerm_storage_account.progressionframework.primary_web_endpoint}","https://",""),"/","")
+    name       = "${var.webname}-${azurerm_storage_account.progressionframework.name}"
+    host_name  = replace(replace("${azurerm_storage_account.progressionframework.primary_web_endpoint}","https://",""),"/","")
     https_port = "443"
   }
   depends_on = ["azurerm_cdn_profile.progressionframework-cdn-profile"]

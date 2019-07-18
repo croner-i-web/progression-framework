@@ -1,7 +1,7 @@
 ---
 path: "/operations/ops-individual-contributor"
-title: "🙋‍♀️️️ Ops Individual Contributor Framework"
-sidebarTitle: "🙋‍♀️ Individual Contributor"
+title: "🙋‍🏅 Ops Individual Contributor Framework"
+sidebarTitle: "🙋‍🏅 Individual Contributor"
 sidebarGroup: "operations"
 yaml: true
 levels: 5

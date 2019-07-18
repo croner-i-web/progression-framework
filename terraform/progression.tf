@@ -56,6 +56,7 @@ resource "azurerm_cdn_endpoint" "progressionframework-cdn-endpoint" {
   profile_name        = "${azurerm_cdn_profile.progressionframework-cdn-profile.name}"
   location            = "${azurerm_resource_group.rg-progression-framework.location}"
   resource_group_name = "${azurerm_resource_group.rg-progression-framework.name}"
+  origin_host_header = replace(replace("${azurerm_storage_account.progressionframework.primary_web_endpoint}","https://",""),"/","")
   optimization_type   = "GeneralWebDelivery"
 
   

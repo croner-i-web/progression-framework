@@ -19,7 +19,7 @@ steps:
 
   - task: Npm@1
     displayName: "Create production distribution"
-### condition: and(succeeded(), eq(variables['Build.SourceBranchName'], 'master'))
+    condition: and(succeeded(), eq(variables['Build.SourceBranchName'], 'master'))
     inputs:
       command: custom
       customCommand: run build

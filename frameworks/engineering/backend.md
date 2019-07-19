@@ -119,7 +119,6 @@ topics:
           - "Positively influences engineers in the wider org"
           - "Clears blockers for junior team members, provides context/guidance, or knows how to escalate"
           - "Asks why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
-          - "Asks why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
           - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
           - "Shapes the direction of systems designs with less experienced engineers"
           - "Breaks down delivery and knowledge silos in their squad"

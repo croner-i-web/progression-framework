@@ -13,12 +13,13 @@ topics:
       - level: 1
         criteria:
           - "Provides regular status updates to their mentor/buddy"
-          - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
+          - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
+          - "Coordinates with frontend & backend developers around API specifications, with BA & QA around requirements"
+          - "Positive and constructive in team interactions"
       - level: 2
         criteria:
-          - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
           - "Accepts feedback graciously"
           - "Gives feedback to peers when asked"
         exampleCriteria:
@@ -77,7 +78,7 @@ topics:
           - "Breaks down projects into smaller iterative steps that each deliver value"
       - level: 5
         criteria:
-          - "Solves the 'hard problem' in a project e.g. Mastercard crypto and sees it through to resolution"
+          - "Solves the 'hard problem' in a project and sees it through to resolution"
           - "Solves larger ambiguous problems"
           - "Leads incident resolutions"
           - "Makes judgements about when to diverge from the immediate goal to achieve something else"
@@ -101,7 +102,7 @@ topics:
               - "I think this code could be improved by doing X, let's pair on it and I'll talk through why X is good for this"
       - level: 4
         criteria:
-          - "Contributes to maintaining the Bright culture in their team, helping new joiners"
+          - "Can onboard new members of the team and act as a mentor for processes and project work"
           - "Gets buy-in on technical decision-making and proposed designs"
           - "Proactively involves other relevant engineers"
           - "Sought out for code reviews"
@@ -166,25 +167,23 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Writes Swift or Kotlin code according to our style guides"
+          - "Writes Swift or Kotlin code according to our style guides and architecture"
           - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
           - "Updates layout to existing screens"
           - "Builds simple screens or flows"
           - "Asks questions and actions feedback from PRs and other engineers"
           - "Fixes simple bugs or issues"
+          - "Write unit tests and UI tests"
       - level: 2
         criteria:
           - "Uses appropriate algorithms and data structures to solve problems"
           - "Uses appropriate design patterns"
           - "Responsible for building small to medium sized new features inside the app"
           - "Modifies and improves existing parts of the app (and reasons about the improvements)"
-          - "Adds basic UI tests or snapshots"
-          - "Adds basic unit tests"
           - "Proactively learns new things and seeks out people who can help them"
           - "Manages the release master process"
           - "Contributes to Android or iOS chat"
           - "Appropriately uses common functional reactive programming concepts"
-          - "Designs database models"
           - "Appropriately handles errors or failure conditions in their code"
         exampleCriteria:
           - criteria: "Integrates with new APIs"
@@ -218,7 +217,7 @@ topics:
               - "Researches potential solutions and evaluates how they solve the problem."
               - "Able to articulate _why_ a change in architecture is needed and the impact this will have on the team and business."
               - "Dissects into discrete tasks and works with other team members to resolve issues."
-              - "Examples include network request lifecycle and authorisation, model layer and persistence, app navigation and coordination (eg deep links), and modularisation"
+              - "Examples include network request lifecycle and authorisation, model layer and persistence, app navigation and coordination, and modularisation"
           - criteria: "Debugs complex problems across a variety of subject areas"
             examples:
               - "Seeks out technical knowledge to compliment their own, researches and patches third party libraries where needed. Uses reasoning to debug and find the root cause of issues."
@@ -237,7 +236,7 @@ topics:
               - "A technical authority for iOS/Android on multiple teams, working with team leads and other engineers across the company."
           - criteria: "Anticipates platform/project needs from other teams, technical debt and common problems"
             examples:
-              - "Proactively seeks out solutions for problems not owned by product teams, works with others to scope and identify solutions. Justifies effort to PMs in order to schedule work."
+              - "Proactively seeks out solutions for problems not owned by product teams, works with others to scope and identify solutions. Justifies effort to team leads in order to schedule work."
           - criteria: "Takes charge of low level deep dives when debugging complex issues."
             examples:
               - "Able to handle situations where domain knowledge does not exist in the company and can lead the effort to resolve them."

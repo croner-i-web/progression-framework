@@ -4,7 +4,7 @@ title: "👩‍📱 Mobile Engineering Framework"
 sidebarTitle: "👩‍📱 Mobile"
 sidebarGroup: "engineering"
 yaml: true
-levels: 6
+levels: 5
 homepage: true
 topics:
   - name: "communication"
@@ -46,8 +46,6 @@ topics:
         criteria:
           - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
           - "Talks to non-technical stakeholders on appropriate level of abstraction"
-      - level: 6
-        criteria:
           - "Transparent about feedback they have received and what they are going to do differently"
   - name: "impact"
     title:
@@ -86,10 +84,6 @@ topics:
           - "Leads writing large scope proposals"
           - "Breaks down large long-lasting projects into sensible discrete chunks that compound to achieve a large goal"
           - "Helps prioritise and balance short-term and long-term investments, focusing on high impact, high value work"
-      - level: 6
-        criteria:
-          - "Accountable for delivery of large, mission critical engineering projects"
-          - "Originates or finishes large, horizontal engineering efforts"
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:
@@ -123,11 +117,7 @@ topics:
           - "Owns technical decisions with high risk and low reversibility"
           - "Contributes to maintaining the Bright culture in the wider company"
           - "Bootstraps new teams"
-      - level: 6
-        criteria:
           - "Helps groups of squads work together more effectively"
-          - "Starts things that they cannot finish by themselves"
-          - "Delegates to make better use of their time"
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -158,9 +148,6 @@ topics:
           - "Given as reason for other engineers to join Bright"
           - "Proactively shares knowledge internally"
           - "Acts as the 'sole proprietor', in the CEO mindset, their ego/agenda is not a factor in their thinking or decision making"
-      - level: 6
-        criteria:
-          - "Attracts other very senior hires"
           - "Engineers around them get better and have a bigger impact, faster"
   - name: "mastery"
     title: "🛠️ Mastery"

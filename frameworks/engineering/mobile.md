@@ -1,12 +1,27 @@
 ---
 path: "/engineering/mobile"
-title: "👩‍📱 Mobile Engineering Framework"
-sidebarTitle: "👩‍📱 Mobile"
+title: "📱 Mobile Engineering Framework"
+sidebarTitle: "📱 Mobile"
 sidebarGroup: "engineering"
 yaml: true
-levels: 5
+levels: 4
 homepage: true
 topics:
+  - name: "summary"
+    title: "🥋Summary"
+    content:
+      - level: 1
+        criteria:
+          - "Junior level. You need guidance from other devs and gain more experience."
+      - level: 2
+        criteria:
+          - "Professional level. You are self effiecient."
+      - level: 3
+        criteria:
+          - "Senior level. You have a great domain knowledge and guide other devs"
+      - level: 4
+        criteria:
+          - "Principle level. You're super hero 🦸‍"
   - name: "communication"
     title:
     content:
@@ -42,11 +57,7 @@ topics:
           - "Helps people in non-technical roles understand technical constraints / trade-offs"
           - "Shares technical context and direction for less experienced engineers"
           - "Gives direct and constructive feedback to other engineers"
-      - level: 5
-        criteria:
           - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
-          - "Talks to non-technical stakeholders on appropriate level of abstraction"
-          - "Transparent about feedback they have received and what they are going to do differently"
   - name: "impact"
     title:
     content:
@@ -74,13 +85,9 @@ topics:
           - "Makes pragmatic choices about taking on tech debt"
           - "Considers multiple different solutions for solving a problem"
           - "Breaks down projects into smaller iterative steps that each deliver value"
-      - level: 5
-        criteria:
           - "Solves the 'hard problem' in a project and sees it through to resolution"
-          - "Solves larger ambiguous problems"
           - "Leads incident resolutions"
           - "Makes judgements about when to diverge from the immediate goal to achieve something else"
-          - "Leading large scale technical infrastructure projects (level 5 would originate or complete, probably)"
           - "Leads writing large scope proposals"
           - "Breaks down large long-lasting projects into sensible discrete chunks that compound to achieve a large goal"
           - "Helps prioritise and balance short-term and long-term investments, focusing on high impact, high value work"
@@ -97,27 +104,18 @@ topics:
       - level: 4
         criteria:
           - "Can onboard new members of the team and act as a mentor for processes and project work"
-          - "Gets buy-in on technical decision-making and proposed designs"
           - "Proactively involves other relevant engineers"
           - "Sought out for code reviews"
-          - "Instills Bright engineering principles in other engineers"
           - "Helps the growth of engineers around them through coaching and mentoring"
           - "Helps their squad work together more effectively"
-          - "Helps facilitate team/squad rituals"
+          - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
+          - "Delegates technical decisions with low risk and high reversibility"
+          - "Owns technical decisions with high risk and low reversibility"
+          - "Helps groups of squads work together more effectively"
         exampleCriteria:
           - criteria: "Makes improvements to modules/libraries/services and goes out of their way to help others learn from it"
             examples:
               - "I've used RxJava for the first time here, I'm going to do a talk about why I've done this, here's some great blog posts on it"
-      - level: 5
-        criteria:
-          - "Instills Bright engineering principles across a whole squad of engineers"
-          - "Works with relevant Engineering Managers to help other engineers perform and grow"
-          - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
-          - "Delegates technical decisions with low risk and high reversibility"
-          - "Owns technical decisions with high risk and low reversibility"
-          - "Contributes to maintaining the Bright culture in the wider company"
-          - "Bootstraps new teams"
-          - "Helps groups of squads work together more effectively"
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -142,12 +140,7 @@ topics:
           - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
           - "Shapes the direction of systems designs with less experienced engineers"
           - "Breaks down delivery and knowledge silos in their squad"
-      - level: 5
-        criteria:
-          - "Represents Bright at conferences/events"
-          - "Given as reason for other engineers to join Bright"
           - "Proactively shares knowledge internally"
-          - "Acts as the 'sole proprietor', in the CEO mindset, their ego/agenda is not a factor in their thinking or decision making"
           - "Engineers around them get better and have a bigger impact, faster"
   - name: "mastery"
     title: "🛠️ Mastery"
@@ -198,6 +191,8 @@ topics:
           - "Writes code that serves as a definitive example for new engineers"
           - "Identifies and fixes security vulnerabilities"
           - "Sought out for reviewing complex changes or commenting on larger scale proposals"
+          - "Anticipates large or significant platform changes, work with team to define possible solutions. Starts or finishes these projects."
+          - "Takes high level requirements and turns them into discrete technical concerns"
         exampleCriteria:
           - criteria: "Owns and coordinates large scale architectural changes to the entire codebase"
             examples:
@@ -213,11 +208,6 @@ topics:
             examples:
               - "Coordinates with backend developers around API specifications and requirements."
               - "Able to digest into discrete tasks and work with peers to solve problem in an efficient manner to avoid blockers."
-      - level: 5
-        criteria:
-          - "Anticipates large or significant platform changes, work with team to define possible solutions. Starts or finishes these projects."
-          - "Takes high level requirements and turns them into discrete technical concerns"
-        exampleCriteria:
           - criteria: "Coordinates group efforts across horizontal"
             examples:
               - "A technical authority for iOS/Android on multiple teams, working with team leads and other engineers across the company."
@@ -228,6 +218,7 @@ topics:
             examples:
               - "Able to handle situations where domain knowledge does not exist in the company and can lead the effort to resolve them."
               - "For example, resolving issues with our compiler and mapping out code paths for 'hard to reproduce' issues"
+          
 ---
 ### About our engineering progression frameworks
 The engineering progression framework is a tool that helps engineers and managers:

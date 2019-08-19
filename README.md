@@ -107,8 +107,6 @@ You can also add examples, by putting them in the `exampleCriteria` object, defi
 
 ---
 
-If you need any help and are a Bright, ping @lucas a message or put a message in #org-scaling. Otherwise, feel free to raise an issue here in GitHub.
-
 ## ✏️ How do I edit a framework?
 
 Firstly, go to the framework file on this site. Click on the ✏️ icon in the top bar, and make your edits in the text editor that appears.

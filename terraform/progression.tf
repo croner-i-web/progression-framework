@@ -1,5 +1,6 @@
 terraform {
   backend "azurerm" {
+    resource_group_name  = "RG-Terraform-State"
     storage_account_name = "brightterraformstate"
     container_name       = "rg-progression-framework"
     key                  = "progression-framework.terraform.tfstate"
@@ -7,7 +8,7 @@ terraform {
 }
 
 provider "azurerm" {
-    version = "=1.28.0"
+    version = "=1.36.0"
 }
 
 variable "webname" {

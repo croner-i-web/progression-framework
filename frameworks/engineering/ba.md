@@ -71,7 +71,7 @@ topics:
         criteria:
           - "Coaches and mentors within the BA competency"
           - "Finds learning opportunities for others when reviewing work and follows up"
-          - "Defines and leads the recruitment process/strategy within the BA competency
+          - "Defines and leads the recruitment process/strategy within the BA competency"
           - "Performance manages other business analysts e.g. set and monitor objectives, complete reviews"
           - "Line manages other business analysts e.g. absence management"
 

@@ -1,7 +1,7 @@
 ---
 path: "/engineering/quality"
 title: "Quality Analyst Framework"
-sidebarTitle: "🕵🏽‍🔎 Quality"
+sidebarTitle: "🔍 Quality"
 sidebarGroup: "engineering"
 yaml: true
 levels: 4
@@ -12,19 +12,22 @@ topics:
     content:
       - level: 1
         criteria:
-        - "Provides regular status updates to their squad and discipline"
+        - "Provides regular status updates to their team and discipline"
         - "Points out improvements in test scenario reviews"
+        - "Contributes in three Amigos"
         - "Seeks guidance from other testers, rather than answers"
         - "Accepts feedback graciously"
       - level: 2
         criteria:
-        - "Proactively communicates to their squad and discipline with what they are working on, why, how it's going and when they need help"
+        - "Proactively communicates to their team and discipline with what they are working on, why they are doing it, how it's going and when they need help"
+        - "Transparent about mistakes they've made"
         - "Accepts feedback graciously and looks to action feedback"
         - "Gives feedback to peers when asked"
-        - Communicates clearly to other disciplines and within squad with little need for clarification
+        - Communicates clearly to other disciplines and within team with little need for clarification
+        - "Can successfully get buy-in for their proposals, from their team"
       - level: 3
         criteria:
-          - "Transparent about mistakes they've made, early"
+          - "Transparent about mistakes they've made, early informs the people"
           - "Proactively gives timely actionable feedback to peers"
           - "Proactively seeks feedback from the people around them"
           - "Considers the opinions of others before defending their own"
@@ -38,16 +41,16 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Works as part of a squad and can self assign tasks"
-          - "Delivers assigned tasks, working with a more senior squad or discipline member, and able to take feedback to improve their work"
+          - "Works as part of a team and can self assign tasks"
+          - "Delivers assigned tasks, working with a more senior team or discipline member, and able to take feedback to improve their work"
           - "Attends planning meetings, inputting on improving quality early and can identify simple risks"
       - level: 2
         criteria:
         - "Delivers assigned tasks that meet expected criteria"
-        - "Works as part of a squad, focuses on tasks that contribute to squad goals"
+        - "Works as part of a team, focuses on tasks that contribute to team goals"
         - "Tries to unblock themselves first before seeking help"
         - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
-        - "Contributes to a well functioning squad and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
+        - "Contributes to a well functioning team and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
         - "Solves small/medium problems"
       - level: 3
         criteria:
@@ -86,7 +89,7 @@ topics:
         criteria:
         - "Begins to apply exploratory testing techniques following guidance and training materials"
         - "Starts to write and communicate simple bug reports with guidance"
-        - "Attends and starts to add value squad rituals"
+        - "Attends and starts to add value team rituals"
         - "Uses tool assisted testing techniques to identify symptoms of bugs"
         - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
       - level: 2
@@ -96,7 +99,7 @@ topics:
         - "Writes detailed bug reports according to best practice. Communicates clearly to the engineers with little need for clarification"
         - "Independently uses tool assisted testing techniques to assist in determining a bug’s root cause"
         - "Drives releases from a test perspective.  Understands the need for quality and weighs up bug impact vs feature impact to assist release decisions"
-        - "Participates in squad rituals"
+        - "Participates in team rituals"
         - "Understands the impact of work being done"
         - "Employs appropriate exploratory testing techniques"
         - "Proactive in asking questions to identify areas of risk"
@@ -112,11 +115,12 @@ topics:
 ---
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers at Bright. We’re interested in these five elements:
+The framework covers all the things we’re looking for from engineers and managers at Bright.
+We’re interested in these five elements:
 - Mastery - Your Bright knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better
-- Comms & Feedback - How you interact with others
+- Communication & Feedback - How you interact with others
 - Leadership - How people around you become better and more impactful
 
 We sort them into four levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.

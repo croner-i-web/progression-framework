@@ -41,9 +41,8 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Works as part of a team and can self assign tasks"
           - "Delivers assigned tasks, working with a more senior team or discipline member, and able to take feedback to improve their work"
-          - "Attends planning meetings, inputting on improving quality early and can identify simple risks"
+          - "Attends planning or Three Amigos sessions, inputting on improving quality early and can identify simple risks"
       - level: 2
         criteria:
         - "Delivers assigned tasks that meet expected criteria"
@@ -55,9 +54,18 @@ topics:
       - level: 3
         criteria:
           - "Delivers large well-defined tasks and solves small scope not-well-defined problems"
-          - "Contributes to writing proposals (Co-authors with more experienced Engineer)"
+          - "Contributes to writing test proposals (Co-authors with more experienced Engineer)"
           - "Identifies areas of testing within the business that can be improved and suggests improvements"
           - "Breaks down large problems into smaller iterative steps"
+      - level: 4
+        criteria:
+          - "Able to diagnose or reproduce issues with limited information"
+          - "Supports implementation of a feature and any issues that may arise from it"
+          - "Makes pragmatic choices on their testing approach"
+          - "Able to multi task and support other teams without impacting quality"
+          - "Can consider different approaches to testing a feature"
+          - "Understands our company goals and makes decisions to help support the bigger picture"
+
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:

@@ -123,7 +123,7 @@ topics:
         criteria:
           - "Considered an authority on FE tech in general and our platforms"
           - "Core team member able to lead improvements in how the team operates"
-          - "Focus on NFAs, will ensure this essential background stuff is done"
+          - "Focus on NFRs, will ensure this essential background stuff is done"
 
 
 ---

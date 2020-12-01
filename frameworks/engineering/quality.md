@@ -69,10 +69,31 @@ topics:
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:
+      - level: 2
+        criteria:
+          - "Runs delivery team Stand-ups"
+          - "Runs show and tells to stake holders"
+          - "Allocate Service issues to wider team"
       - level: 3
         criteria:
-          - "Onboards / mentors new engineers"
+          - "Onboards / mentors new testers, advising them on the Bright culture"
+          - "Encourages team members to factor in Service issues and gets them resolved"
           - "Finds learning opportunities for others when reviewing their work and follows it up"
+          - "Shares knowledge more freely, organising specific brown bags or workshops"
+          - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
+          - "Runs QA stand-ups gets clarity on what the entire team are working on"
+          - "Helps team members prioritise work or resolve issues they may have"
+      - level: 4
+        criteria:
+          - "Contributes to maintaining the Bright culture in their team, helping new joiners"
+          - "Recommends buy-in on decision-making and proposed designs"
+          - "Can highlight any concerns or issues impacting delivery to senior stakeholders" 
+          - "Helps the growth of the QA team through coaching and mentoring"
+          - "Helps facilitate team rituals"
+          - "Helps to make improvements or raises areas of improvement to benefit the team"
+          - "Proactively involves other relevant team members to achieve a goal"
+          - "Instills QA principles in other QAs and their delivery team"
+
   - name: "influence"
     title: "✨ Influence"
     content:

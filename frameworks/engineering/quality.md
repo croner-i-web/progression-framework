@@ -119,6 +119,18 @@ topics:
         - "Lead retros and other team improvement sessions"
         - "Participate in project ideation"
         - "Help build and support long term plans for team and business"
+      - level: 4
+        criteria:
+        - "Positively influences testers in the wider group"
+        - "Clears blockers for junior team members, provides context/guidance, or knows how to escalate"
+        - "Asks why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
+        - "Drives changes to testing practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
+        - "Breaks down delivery and knowledge silos in their team"
+        - "Produce long term plans for testing strategy"
+        - "Influences delivery comments based on complexity and risk"
+        - "Supports delivery lead making realistic estimations on when features will be released"
+        - "Supports delivery teams on resource allocation based on the strength of the team and their personalities"
+        - "Supports delivery initiatives outside of regular buisness prioritisation"
 
   - name: "mastery"
     title: "🛠️ Mastery"
@@ -162,7 +174,8 @@ topics:
       - level: 3
         criteria:
         - "Leads conversations when analysing features, advocates for acceptance criteria to be included (Example: advocates for accessibility acceptance criteria to be included in a front-end story)"
-        - "Creates test scenarios for business features with high customer visibility and high business risk. Advises others on how to create test scenarios"
+        - "Creates test scenarios for business features with high customer visibility and high business risk."
+        - "Advises others on how to create test scenarios"
         - "Advises on testing approach for a feature, advocates for testing lower down the test pyramid (Example: pushes testing of some acceptance criteria down into the unit tests, works with developers to help that happen)"
         - "Writes detailed bug reports, communicates to developers, advocates for fixes, contributes to defining best practice"
         - "Debugs complex defects, able to capture root cause (not just symptoms)"

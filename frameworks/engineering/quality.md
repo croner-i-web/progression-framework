@@ -27,7 +27,7 @@ topics:
         - "Can successfully get buy-in for their proposals, from their team"
       - level: 3
         criteria:
-          - "Transparent about mistakes they've made, early informs the people"
+          - "Transparent about mistakes they've made, informs relevant people as soon as possible."
           - "Proactively gives timely actionable feedback to peers"
           - "Proactively seeks feedback from the people around them"
           - "Considers the opinions of others before defending their own"

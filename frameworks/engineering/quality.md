@@ -13,8 +13,8 @@ topics:
       - level: 1
         criteria:
         - "Provides regular status updates to their team and discipline"
-        - "Points out improvements in test scenario reviews"
-        - "Contributes in three Amigos"
+        - "Points out improvements in test scenario reviews or in three amigo sessions"
+        - "Contributes in Kick Offs"
         - "Seeks guidance from other testers, rather than answers"
         - "Accepts feedback graciously"
       - level: 2
@@ -104,7 +104,7 @@ topics:
           - "Clearly announces standup updates"
       - level: 2
         criteria:
-        - "Proactively raises issues they spot in retrospectives"
+        - "Proactively raises issues they spot in retrospectives and other team improvement sessions"
         - "Identifies and raises issues with test tools, harnesses and frameworks used"
         - "Contributes to tester discipline catch ups"
         - "Keeps documentation up to date"

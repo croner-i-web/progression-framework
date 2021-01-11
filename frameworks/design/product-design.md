@@ -4,7 +4,7 @@ title: "🎨 Product Design Framework"
 sidebarTitle: "🎨 Product Design"
 sidebarGroup: "design"
 yaml: true
-levels: 4
+levels: 5
 homepage: true
 topics:
   - name: "knowledge"
@@ -12,85 +12,90 @@ topics:
     content:
       - level: 1
         criteria:
-        - "You are early on in your design career but have an educated understanding of the basics of visual (layout, type, colour, iconography) and interaction design (wireframing, user driven decision making, device specific UI)"
-        - "Along with experience using Adobe XD/ Figma or to turn your knowledge into real design work"
-        - "You are driven by the challenge of mastering your new craft, advancing your understanding of the fundamentals of UX design, and feeding off the people around you to develop your knowledge"
+            - "You are early on in your design career but have an educated understanding of the basics of visual (layout, type, colour, iconography) and interaction design (wireframing, user driven decision making, device specific UI)"
+            - "Along with experience using Adobe XD/ Figma or to turn your knowledge into real design work"
+            - "You are driven by the challenge of mastering your new craft, advancing your understanding of the fundamentals of UX design, and feeding off the people around you to develop your knowledge"
       - level: 2
         criteria:
-        - "You're proficient in multiple aspects of digital product design and user research. You know how to use time, the correct processes to help create the conditions for a great product experience while carrying with you all the insights learnt during the discovery cycles"
-        - "Transparent about mistakes they've made"
-        - "Accepts feedback graciously and looks to action feedback"
-        - "Gives feedback to peers when asked"
-        - Communicates clearly to other disciplines and within team with little need for clarification
-        - "Can successfully get buy-in for their proposals, from their team"
+            - "You're proficient in multiple aspects of digital product design and user research. You know how to use time, the correct processes to help create the conditions for a great product experience while carrying with you all the insights learnt during the discovery cycles"
+            - "You always think about design principles to create the best UI possible."
+            - "You've also mastered your toolkit to work as efficiently as the tools allow, you know all the shortcuts, you install plugins to work more efficiently and you know what's new on every single release of the tools you use."
       - level: 3
         criteria:
-          - "Transparent about mistakes they've made, informs relevant people as soon as possible."
-          - "Proactively gives timely actionable feedback to peers"
-          - "Proactively seeks feedback from the people around them"
-          - "Considers the opinions of others before defending their own"
+            - "You've mastered interaction design and know enough about research to bridge the gaps"
+            - "Transparent about mistakes they've made, informs relevant people as soon as possible"
+            - "You've decided that in your career, you want to stay as an individual contributor, close to the pixels and their users"
+            - "Your experience allows you to understand the business as a whole and to proactively identify where your impact can be bigger"
       - level: 4
         criteria:
-          - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
-          - "Talks to non-technical stakeholders on appropriate level of abstraction"
-          - "Transparent about feedback they have received and what they are going to do differently"
-  - name: "impact"
-    title:
+            - "You have an immense amount of knowledge and you lead how your function intersects with the rest of the company and business"
+            - "You've mastered multiple design disciplines but you also know who the experts are and are able to delegate accordingly"
+            - "You have a very wide breadth of knowledge and you can easily switch context and pick up on new concepts"
+      - level: 5
+        criteria:
+            - "You've mastered multiple design disciplines but you also know who the experts are and are able to delegate accordingly"
+            - "You have a very wide breadth of knowledge and you can easily switch context and pick up on new concepts"
+
+  - name: "ownership"
+    title: "🔑 Ownership"
     content:
       - level: 1
         criteria:
-          - "Delivers assigned tasks, working with a more senior team or discipline member, and able to take feedback to improve their work"
-          - "Attends planning or Three Amigos sessions, inputting on improving quality early and can identify simple risks"
+            - "You acknowledge the role of a UX designer in owning a piece of work from end to end, and communicate clearly with Bas, developers and designers in supporting you to achieve this"
+            - "You work with other designers to help bring your work to the highest quality level, and whenever you need help you ask for it in a timely manner"
       - level: 2
         criteria:
-        - "Delivers assigned tasks that meet expected criteria"
-        - "Works as part of a team, focuses on tasks that contribute to team goals"
-        - "Tries to unblock themselves first before seeking help"
-        - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
-        - "Contributes to a well functioning team and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
-        - "Solves small/medium problems"
+            - "You're involved in and own tasks and projects"
+            - "You're able to offer product direction into UX problems helping creating the perfect and easy to use product"
       - level: 3
         criteria:
-          - "Delivers large well-defined tasks and solves small scope not-well-defined problems"
-          - "Contributes to writing test proposals (Co-authors with more experienced Engineer)"
-          - "Identifies areas of testing within the business that can be improved and suggests improvements"
-          - "Breaks down large problems into smaller iterative steps"
+            - "You help define and completely own big tasks and coordinate well with others to get them done"
+            - "Product vision, direction and execution don't represent a challenge to you anymore, and people just come to you knowing you'll have thought the knowledge and feedback at hand to advise with accuracy and confidence on the correct solutions"
       - level: 4
         criteria:
-          - "Able to diagnose or reproduce issues with limited information"
-          - "Supports implementation of a feature and any issues that may arise from it"
-          - "Makes pragmatic choices on their testing approach"
-          - "Able to multi task and support other teams without impacting quality"
-          - "Can consider different approaches to testing a feature"
-          - "Understands our company goals and makes decisions to help support the bigger picture"
+            - "You are the accountable for the customer impact of high-impact projects, things like a world-wide rebrand can be left in your hands with confidence"
+      - level: 5
+        criteria:
+            - "You understand the big picture and integrate the company goals into Design"
+            - "You're also great at communicating the long-term vision & mission for the company"
 
-  - name: "leadership"
-    title: "👩‍💼 Leadership"
+  - name: "collaboration"
+    title: "👯‍♀️ Collaboration"
     content:
+      - level: 1
+        criteria:
+            - "You work with other designers and developers to aid your understanding of how and why to make decisions, and the trade-offs that come with them"
+            - "You seek out the information and feedback required to get tasks done while communicating back to those that are impacted by your decisions"
+            - "You learn from your mistakes and take feedback graciously making the most of our design critique mechanisms"
+            - "You support other designers in their work, bringing personal insights and feeling comfortable challenging decisions you see that could be improved"
       - level: 2
         criteria:
-          - "Runs delivery team Stand-ups"
-          - "Runs show and tells to stake holders"
-          - "Allocate Service issues to wider team"
+            - "You seek out and use feedback and guidance from those around you"
+            - "You help mentoring more junior staff and are a source of integrity and a model to follow"
+            - "You're actively involved in helping to shape the team culture"
+            - "You are also very good at identifying opportunities for collaboration between different teams and are good at making problems smaller instead of bigger"
       - level: 3
         criteria:
-          - "Onboards / mentors new testers, advising them on the Bright culture"
-          - "Encourages team members to factor in Service issues and gets them resolved"
-          - "Finds learning opportunities for others when reviewing their work and follows it up"
-          - "Shares knowledge more freely, organising specific brown bags or workshops"
-          - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
-          - "Runs QA stand-ups gets clarity on what the entire team are working on"
-          - "Helps team members prioritise work or resolve issues they may have"
-      - level: 4
+            - "You are an excellent mentor in your team and people constantly learn more from you during show and tell and feedback sessions"
+            - "These things elevate our design culture and make us better"
+            - "Finds learning opportunities for others when reviewing their work and follows it up"
+            - "Shares knowledge more freely, organising specific brown bags or workshops"
+            - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
+            - "Runs QA stand-ups gets clarity on what the entire team are working on"
+            - "Helps team members prioritise work or resolve issues they may have"
+    - level: 4
         criteria:
-          - "Contributes to maintaining the Bright culture in their team, helping new joiners"
-          - "Recommends buy-in on decision-making and proposed designs"
-          - "Can highlight any concerns or issues impacting delivery to senior stakeholders" 
-          - "Helps the growth of the QA team through coaching and mentoring"
-          - "Helps facilitate team rituals"
-          - "Helps to make improvements or raises areas of improvement to benefit the team"
-          - "Proactively involves other relevant team members to achieve a goal"
-          - "Instills QA principles in other QAs and their delivery team"
+            - "You inspire those around you and you're an effective leader of our culture and strategy"
+            - "Even though you're not a manager full-time you have incredibly strong leadership and coaching abilities and use these to improve the performance of others"
+     - level: 5
+        criteria:
+            - "You're very good at leading through influence"
+            - "You're an effective teacher, able to formally and informally teach those around you"
+            - "You’re highly recognised for your impact on team culture and people want to work with you"
+            - "You inspire your team and can attract top talent to the organisation"
+            - "You unblock people outside of Design because of all the context and willingness you carry with you"
+
+
 
   - name: "influence"
     title: "✨ Influence"

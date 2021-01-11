@@ -83,11 +83,11 @@ topics:
             - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
             - "Runs QA stand-ups gets clarity on what the entire team are working on"
             - "Helps team members prioritise work or resolve issues they may have"
-    - level: 4
+      - level: 4
         criteria:
             - "You inspire those around you and you're an effective leader of our culture and strategy"
             - "Even though you're not a manager full-time you have incredibly strong leadership and coaching abilities and use these to improve the performance of others"
-     - level: 5
+      - level: 5
         criteria:
             - "You're very good at leading through influence"
             - "You're an effective teacher, able to formally and informally teach those around you"

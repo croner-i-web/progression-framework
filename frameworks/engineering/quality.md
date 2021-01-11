@@ -19,7 +19,6 @@ topics:
         - "Seeks guidance from other testers, rather than answers"
         - "Accepts feedback graciously"
         - "Will ask for help when needed, and will show what they have tried for themselves"
-
       - level: 2
         criteria:
         - "Proactively communicates to their team and discipline with what they are working on, why they are doing it, how it's going and when they need help"

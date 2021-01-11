@@ -1,7 +1,7 @@
 ---
-path: "/engineering/web"
-title: "🌐 Web Engineering Framework"
-sidebarTitle: "🌐 Web"
+path: "/engineering/frontend"
+title: "🌐 Frontend Engineering Framework"
+sidebarTitle: "🌐 Frontend"
 sidebarGroup: "engineering"
 yaml: true
 levels: 4
@@ -122,7 +122,7 @@ topics:
       - level: 4
         criteria:
           - "Considered an authority on FE tech in general and our platforms"
-          - "Core team member able to lead improvements in how the team operates"
+          - "A core team member able to lead improvements in how the team operates"
           - "Focus on NFRs, will ensure this essential background stuff is done"
 
 

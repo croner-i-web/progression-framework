@@ -1,7 +1,7 @@
 ---
 path: "/engineering/quality"
 title: "Quality Analyst Framework"
-sidebarTitle: "🔍 Quality"
+sidebarTitle: "🔍 QA"
 sidebarGroup: "engineering"
 yaml: true
 levels: 4
@@ -13,10 +13,12 @@ topics:
       - level: 1
         criteria:
         - "Provides regular status updates to their team and discipline"
+        - "Has regular conversations with their mentor/buddy"
         - "Points out improvements in test scenario reviews or in three amigo sessions"
         - "Contributes in Kick Offs"
         - "Seeks guidance from other testers, rather than answers"
         - "Accepts feedback graciously"
+        - "Will ask for help when needed, and will show what they have tried for themselves"
       - level: 2
         criteria:
         - "Proactively communicates to their team and discipline with what they are working on, why they are doing it, how it's going and when they need help"
@@ -25,6 +27,7 @@ topics:
         - "Gives feedback to peers when asked"
         - Communicates clearly to other disciplines and within team with little need for clarification
         - "Can successfully get buy-in for their proposals, from their team"
+        - "Has appropriate conversations with other disciplines and stakeholders during a ticket lifecycle"
       - level: 3
         criteria:
           - "Transparent about mistakes they've made, informs relevant people as soon as possible."

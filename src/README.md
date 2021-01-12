@@ -30,9 +30,11 @@ If you're developing locally, you can start up the site locally with hot loading
 npm run start
 npm run develop
 ```
-Which runs (`npm run develop`)
-followed by
-Which runs (`gatsby develop`)
+That runs the following scripts: 🤓
+```sh 
+    "start": "npm run develop"
+    "develop": "gatsby develop"
+```
 
 You can now view @brighthr/progression-framework in the browser.⠀
 ``` sh

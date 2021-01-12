@@ -95,7 +95,7 @@ topics:
 
 ### How does it work?
 The framework covers all the things we’re looking for from engineers and managers at Bright.
-We’re interested in these five elements:
+We’re interested in these three elements:
 - Knowledge - Your Bright knowledge and technical capability
 - Ownership - The size, scope and value of what you deliver
 - Collaboration - How you interact with others

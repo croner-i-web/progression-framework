@@ -64,29 +64,21 @@ topics:
     content:
       - level: 1
         criteria:
-            - "You work with other designers and developers to aid your understanding of how and why to make decisions, and the trade-offs that come with them"
-            - "You seek out the information and feedback required to get tasks done while communicating back to those that are impacted by your decisions"
-            - "You learn from your mistakes and take feedback graciously making the most of our design critique mechanisms"
-            - "You support other designers in their work, bringing personal insights and feeling comfortable challenging decisions you see that could be improved"
+            - "You avoid "big reveal" research within the squads you work with by involving other disciplines at every step"
+            - "Although you share insight quickly to keep your team informed, you're mindful of the limitations of the research you've run, from the biases and the assumptions that were made"
+            - "You have a positive impact in your squad by reducing the uncertainty around decision-making"
       - level: 2
         criteria:
-            - "You seek out and use feedback and guidance from those around you"
-            - "You help mentoring more junior staff and are a source of integrity and a model to follow"
-            - "You're actively involved in helping to shape the team culture"
-            - "You are also very good at identifying opportunities for collaboration between different teams and are good at making problems smaller instead of bigger"
+            - "You ensure that research doesn't happen in a bubble by sharing and working with other teams across the company"
+            - "You're good at bridging the gap between data sources of insight so we can understand the people, their motivations and the context behind behaviours with the product"
       - level: 3
         criteria:
-            - "You are an excellent mentor in your team and people constantly learn more from you during show and tell and feedback sessions"
-            - "These things elevate our design culture and make us better"
-            - "Finds learning opportunities for others when reviewing their work and follows it up"
-            - "Shares knowledge more freely, organising specific brown bags or workshops"
-            - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
-            - "Runs QA stand-ups gets clarity on what the entire team are working on"
-            - "Helps team members prioritise work or resolve issues they may have"
+            - "You understand which disciplines to pull in at what moment to progress projects so we can learn quickly in a way that's robust and as unbiased as possible – which doesn't necessarily involve user research"
+            - "You work closely with data to identify company goals whilst solving the right customer problems in the right way"
       - level: 4
         criteria:
             - "You inspire those around you and you're an effective leader of our culture and strategy"
-            - "Even though you're not a manager full-time you have incredibly strong leadership and coaching abilities and use these to improve the performance of others"
+            - "Even though you're not a manager full-time you have incredibly strong leadership and coaching abilities"
       - level: 5
         criteria:
             - "You're very good at leading through influence"

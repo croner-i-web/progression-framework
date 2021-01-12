@@ -35,7 +35,7 @@ topics:
             - "You've mastered multiple design and research disciplines but you also know who the experts are and are able to delegate accordingly"
             - "You inspire your team and can attract top talent to the organisation"
             - "You unblock people outside of UX, be delivering timely insights and feedback"
-
+            
   - name: "ownership"
     title: "🔑 Ownership"
     content:
@@ -56,7 +56,7 @@ topics:
             - "You are the accountable executive for very high-impact projects, things like a product or brand transformation and vision-setting can be left in your hands with confidence"
       - level: 5
         criteria:
-            - "You understand the big picture and integrate the company goals into User reasearch"
+            - "You understand the big picture and integrate the company goals into User research"
             - "You're also great at communicating the long-term vision & mission for the company"
 
   - name: "collaboration"
@@ -64,7 +64,7 @@ topics:
     content:
       - level: 1
         criteria:
-            - "You avoid "big reveal" research within the squads you work with by involving other disciplines at every step"
+            - "You avoid 'big reveal' research within the squads you work with by involving other disciplines at every step"
             - "Although you share insight quickly to keep your team informed, you're mindful of the limitations of the research you've run, from the biases and the assumptions that were made"
             - "You have a positive impact in your squad by reducing the uncertainty around decision-making"
       - level: 2

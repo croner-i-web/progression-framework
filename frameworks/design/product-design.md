@@ -80,9 +80,6 @@ topics:
             - "These things elevate our design culture and make us better"
             - "Finds learning opportunities for others when reviewing their work and follows it up"
             - "Shares knowledge more freely, organising specific brown bags or workshops"
-            - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
-            - "Runs QA stand-ups gets clarity on what the entire team are working on"
-            - "Helps team members prioritise work or resolve issues they may have"
       - level: 4
         criteria:
             - "You inspire those around you and you're an effective leader of our culture and strategy"

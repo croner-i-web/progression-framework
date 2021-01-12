@@ -37,23 +37,25 @@ topics:
     content:
       - level: 1
         criteria:
-            - "You acknowledge the role of a UX designer in owning a piece of work from end to end, and communicate clearly with Bas, developers and designers in supporting you to achieve this"
-            - "You work with other designers to help bring your work to the highest quality level, and whenever you need help you ask for it in a timely manner"
+            - "You reliably own and complete well defined tasks to a high quality with little direction"
+            - "You always provide a useful estimate of how long a task would take until it's completed. You never miss a deadline without a very good reason and clear communication"
+            - "Whenever you need help you ask for it in a timely manner"
       - level: 2
         criteria:
-            - "You're involved in and own tasks and projects"
-            - "You're able to offer product direction into UX problems helping creating the perfect and easy to use product"
+            - "You're involved in and own big (and not necessarily well defined) tasks and projects that will have a big impact"
+            - "You're able to offer art direction into complex campaigns and problems creating unique visuals that people can remember and associate with Bright"
       - level: 3
         criteria:
-            - "You help define and completely own big tasks and coordinate well with others to get them done"
-            - "Product vision, direction and execution don't represent a challenge to you anymore, and people just come to you knowing you'll have thought the knowledge and feedback at hand to advise with accuracy and confidence on the correct solutions"
+            - "You define and completely own big tasks and coordinate well with others to get them done"
+            - "Art direction and execution don't represent a challenge to you anymore and people just come to you knowing you'll have thought already of solutions"
       - level: 4
         criteria:
-            - "You are the accountable executive for very high-impact projects, things like a product or brand transformation and vision-setting can be left in your hands with confidence"
+            - "You can take the long-term vision and define the building blocks needed to get there"
       - level: 5
         criteria:
-            - "You understand the big picture and integrate the company goals into User research"
+            - "You understand the big picture and integrate the company goals into Design" 
             - "You're also great at communicating the long-term vision & mission for the company"
+            - "You are the accountable executive for very high-impact projects, things like a world-wide rebrand can be left in your hands with confidence"
 
   - name: "collaboration"
     title: "👯‍♀️ Collaboration"

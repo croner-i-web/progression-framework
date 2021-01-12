@@ -1,6 +1,6 @@
 ---
-path: "/engineering/quality"
-title: "Quality Analyst Framework"
+path: "/engineering/qa"
+title: "🔍 Quality Analyst Framework"
 sidebarTitle: "🔍 QA"
 sidebarGroup: "engineering"
 yaml: true

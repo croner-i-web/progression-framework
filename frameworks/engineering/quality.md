@@ -1,5 +1,5 @@
 ---
-path: "/engineering/quality"
+path: "/engineering/qa"
 title: "🔍 Quality Analyst Framework"
 sidebarTitle: "🔍 QA"
 sidebarGroup: "engineering"

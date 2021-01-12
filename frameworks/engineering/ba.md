@@ -1,6 +1,6 @@
 ---
 path: "/engineering/ba"
-title: "Business Analyst Framework"
+title: "💼 Business Analyst Framework"
 sidebarTitle: "💼 BA"
 sidebarGroup: "engineering"
 yaml: true

@@ -12,29 +12,25 @@ topics:
     content:
       - level: 1
         criteria:
-            - "You understand the theory and fundamentals of most qualitative and quantitative research methods"
-            - "What's more important, you know their limitations and when to apply them"
-            - "You know the principles of user testing, and know the kind of results you can expect based on the interactions offered by the fidelity of the prototype that's used"
+            - "You understand the theory and fundamentals of graphic design (layout, type, colour, iconography) and how to put them into practice"
+            - "You always base your decisions on solid visual design principles"
+            - "You are proficient using the right tool for the job"
       - level: 2
         criteria:
-            - "You understand the theory and fundamentals of multiple research methods (both qualitative and quantitative)"
-            - "What's more important, you know their limitations and can clearly articulate how to apply them appropriately"
-            - "You've also learned to observe interactions in a natural way so you can figure out what our users need even when they're not around a screen"
-            - "Your communication and organisational skills are good so your research insights can be extended and consumed by others with ease"
-            - "You understand basic design principles and how specific patterns influence behaviour"
+            - "You're totally proficient in multiple aspects of design, which allows you to easily move from print design to motion design in a split second"
+            - "You don't always think about visual design principles because they come to you naturally without even thinking about it anymore"
+            - "You've also mastered your toolkit to work as fast as the tools allow, you know all the shortcuts, you install plugins to work more efficiently and you know what's new on every single release of the tools you use"
       - level: 3
         criteria:
-            - "You've mastered the range of qualitative and quantitative research methods and when to apply them"
-            - "The recommendations that come out of your research are highly impactful, not just because of the way you communicate and organise them, but also because you know how to adapt them to different people in the company depending on their priorities"
-            - "You know what industry best practice design guidelines look like and can recommend patterns depending on the behaviour we want to drive"
+            - "You've mastered graphic design and some other design disciplines"
+            - "Your experience allows you to understand the business as a whole and identify proactively where can your impact be bigger"
       - level: 4
         criteria:
-            - "You have an immense amount of knowledge but also a very high-level understanding about how your function intersects with the rest of the company and business"
+            - "You've mastered multiple design disciplines but you also know who the experts are and are able to delegate accordingly"
       - level: 5
         criteria:
-            - "You've mastered multiple design and research disciplines but you also know who the experts are and are able to delegate accordingly"
-            - "You inspire your team and can attract top talent to the organisation"
-            - "You unblock people outside of UX, be delivering timely insights and feedback"
+            - "You have a very wide breadth of knowledge and you can easily switch context and pick up on new concepts"
+            - "You have an immense amount of knowledge but also a very high-level understanding about how your function intersects with the rest of the company and business"
             
   - name: "ownership"
     title: "🔑 Ownership"

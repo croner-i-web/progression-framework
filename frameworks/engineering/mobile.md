@@ -142,7 +142,7 @@ topics:
           - "Update layout to existing screens"
           - "Build simple screens or flows"
           - "Ask questions and actions feedback from PRs and other engineers"
-          - "Fixe simple bugs or issues"
+          - "Fix simple bugs or issues"
           - "Write unit tests and UI tests"
       - level: 2
         criteria:

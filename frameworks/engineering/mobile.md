@@ -149,7 +149,7 @@ topics:
           - "Use appropriate algorithms and data structures to solve problems"
           - "Use appropriate design patterns"
           - "Responsible for building small to medium sized new features inside the app"
-          - "Modifie and improve existing parts of the app (and reasons about the improvements)"
+          - "Modify and improve existing parts of the app (and reasons about the improvements)"
           - "Proactively learn new things and seek out people who can help them"
           - "Manage the release master process"
           - "Contribute to Android or iOS chat"

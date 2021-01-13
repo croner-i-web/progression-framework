@@ -186,13 +186,13 @@ topics:
         exampleCriteria:
           - criteria: "Own and coordinate large scale architectural changes to the entire codebase"
             examples:
-              - "Researche potential solutions and evaluates how they solve the problem."
+              - "Research potential solutions and evaluates how they solve the problem."
               - "Able to articulate _why_ a change in architecture is needed and the impact this will have on the team and business."
               - "Dissect into discrete tasks and works with other team members to resolve issues."
               - "Examples include network request lifecycle and authorisation, model layer and persistence, app navigation and coordination, and modularisation"
           - criteria: "Debug complex problems across a variety of subject areas"
             examples:
-              - "Seek out technical knowledge to compliment their own, researches and patches third party libraries where needed. Uses reasoning to debug and find the root cause of issues."
+              - "Seek out technical knowledge to compliment their own, research and patch third party libraries where needed. Use reasoning to debug and find the root cause of issues."
               - "Articulate problem and proposed solution to both technical and non technical peers."
           - criteria: "Write proposals and architects complex app flows"
             examples:

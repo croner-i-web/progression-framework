@@ -14,8 +14,8 @@ topics:
         criteria:
           - "Be positive and constructive in team interactions"
           - "Proactively communicate with their team what they are working on & how it's going"
-          - "Have a regular conversation and provide update to their team lead/manager/mentor"
-          - "Transparent about mistakes they've made"
+          - "Have a regular conversation and provide updates to their team lead/manager/mentor"
+          - "Be transparent about mistakes they've made"
           - "Seek guidance from other engineers, rather than answers"
           - "Write PR descriptions that provide basic context for the change"
           - "Be comforable to demo their work"
@@ -39,7 +39,7 @@ topics:
           - "Help people in non-technical roles understand technical constraints / trade-offs"
           - "Share technical context and direction for less experienced engineers"
           - "Give direct and constructive feedback to other engineers"
-          - "Help other people develop themselves and regularly gives insightful, useful feedback to those around them"
+          - "Help other people develop themselves and regularly give insightful, useful feedback to those around them"
           - "Communicate their area’s role within the larger mission of the company"
   - name: "impact"
     title:
@@ -64,14 +64,14 @@ topics:
           - "Write techical proposals, share experience articles"
           - "Break down large problems into smaller iterative steps across multiple PRs"
           - "Understand when to be pragmatic to meet goals, and has the discipline to follow up on any compromises made"
-          - "Identifies problems to solve"
+          - "Identify problems to solve"
       - level: 4
         criteria:
           - "Make pragmatic choices about taking on tech debt"
           - "Consider multiple different solutions for solving a problem"
           - "Break down projects into smaller iterative steps that each deliver value"
           - "Break down large long-lasting projects into sensible discrete chunks that compound to achieve a large goal"
-          - "Solve the 'hard problem' in a project and sees it through to resolution"
+          - "Solve the 'hard problem' in a project and see it through to resolution"
           - "Lead incident resolutions"
           - "Make judgements about when to diverge from the immediate goal to achieve something else"
           - "Writing large scope proposals"
@@ -91,12 +91,12 @@ topics:
               - "I think this code could be improved by doing X, let's pair on it and I'll talk through why X is good for this"
       - level: 4
         criteria:
-          - "Can onboard new members of the team and act as a mentor for processes and project work"
+          - "Onboard new members of the team and act as a mentor for processes and project work"
           - "Proactively involve other relevant engineers"
           - "Help the growth of engineers around them through coaching and mentoring"
           - "Help their squad work together more effectively"
           - "Help groups of squads work together more effectively"
-          - "Foster effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
+          - "Foster effective collaboration in delivery teams"
           - "Delegate technical decisions with low risk and high reversibility"
           - "Own technical decisions with high risk and low reversibility"
         exampleCriteria:
@@ -119,13 +119,13 @@ topics:
         criteria:
           - "Provide valuable input to proposals from their team"
           - "Proactively improve modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
-          - "Contribute to scaling engineering hiring (e.g. leads calls, does onsite interviews)"
-          - "Build simple tools or iterates existing tools for the benefit of all engineers"
+          - "Contribute to scaling engineering hiring (e.g. lead calls, do onsite/online interviews)"
+          - "Build simple tools or iterate existing tools for the benefit of all engineers"
       - level: 4
         criteria:
           - "Positively influence engineers in the wider org"
           - "Maintain documentation on things they know the most, make it easy for future engineers to interact with systems/code"
-          - "Clear blockers for junior team members, provide context/guidance, or knows how to escalate"
+          - "Clear blockers for junior team members, provide context/guidance, or know how to escalate"
           - "Ask why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
           - "Drive changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
           - "Shape the direction of systems designs with less experienced engineers"

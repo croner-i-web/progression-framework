@@ -179,7 +179,7 @@ topics:
       - level: 4
         criteria:
           - "Write code that serves as a definitive example for new engineers"
-          - "Identifie and fixe security vulnerabilities"
+          - "Identify and fix security vulnerabilities"
           - "Sought out for reviewing complex changes or commenting on larger scale proposals"
           - "Anticipate large or significant platform changes, work with team to define possible solutions. Starts or finishes these projects."
           - "Take high level requirements and turns them into discrete technical concerns"

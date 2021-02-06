@@ -25,7 +25,7 @@ topics:
         - "Transparent about mistakes they've made"
         - "Accepts feedback graciously and looks to action feedback"
         - "Gives feedback to peers when asked"
-        - Communicates clearly to other disciplines and within team with little need for clarification
+        - "Communicates clearly to other disciplines and within team with little need for clarification"
         - "Can successfully get buy-in for their proposals, from their team"
         - "Has appropriate conversations with other disciplines and stakeholders during a ticket lifecycle"
       - level: 3

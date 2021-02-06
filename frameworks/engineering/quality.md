@@ -51,7 +51,7 @@ topics:
         - "Delivers assigned tasks that meet expected criteria"
         - "Works as part of a team, focuses on tasks that contribute to team goals"
         - "Tries to unblock themselves first before seeking help"
-        - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
+        - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and takes appropriate steps to unblock themselves or their team mates"
         - "Contributes to a well functioning team and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
         - "Solves small/medium problems"
       - level: 3

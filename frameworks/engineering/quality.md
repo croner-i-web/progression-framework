@@ -86,6 +86,8 @@ topics:
           - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
           - "Runs QA stand-ups gets clarity on what the entire team are working on"
           - "Helps team members prioritise work or resolve issues they may have"
+          - "Understands the commercial importance and impact of work being delivered or planned"
+
       - level: 4
         criteria:
           - "Contributes to maintaining the Bright culture in their team, helping new joiners"
@@ -161,7 +163,6 @@ topics:
         - "Drives releases from a test perspective"
         - "Understands the need for quality and weighs up bug impact vs feature impact to assist release decisions"
         - "Actively participates in team rituals"
-        - "Understands the impact of work being done"
         - "Employs appropriate exploratory testing techniques"
         - "Proactive in asking questions to identify areas of risk"
         - "Self learns new techniques and tools and seeks out people who can assist them"

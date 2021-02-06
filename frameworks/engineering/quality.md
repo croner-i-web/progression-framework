@@ -18,7 +18,7 @@ topics:
         - "Contributes in Kick Offs"
         - "Seeks guidance from other testers, rather than answers"
         - "Accepts feedback graciously"
-        - "Will ask for help when needed, and will show what they have tried for themselves"
+        - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
       - level: 2
         criteria:
         - "Proactively communicates to their team and discipline with what they are working on, why they are doing it, how it's going and when they need help"
@@ -144,7 +144,6 @@ topics:
         - "Starts to write and communicate simple bug reports with guidance"
         - "Attends and starts to add value team rituals"
         - "Uses tool assisted testing techniques to identify symptoms of bugs"
-        - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
         - "Knows the ISTQB Syllabus and when to apply it"
         - "Can write and execute a test script"
         - "Can write a comprehensive bug report"

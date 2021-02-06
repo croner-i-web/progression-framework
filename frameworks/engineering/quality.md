@@ -174,6 +174,7 @@ topics:
         - "Knows how to query the DB, Create & run PostMan queries, Read and understand console outputs and error logs"
         - "Grasp an understanding of a number of products very well"
         - "Confidently navigate around CI pipelines"
+        - "Actively uses testing tools for example PostMan, Web Developer tools, Kibana"
       - level: 3
         criteria:
         - "Leads conversations when analysing features, advocates for acceptance criteria to be included (Example: advocates for accessibility acceptance criteria to be included in a front-end story)"
@@ -195,7 +196,7 @@ topics:
         - "Support other areas of the business, with answers by validating assumptions quickly"
         - "Use testing tools confidently to generate outcomes"
         - "Maintain and support CI pipelines, so your releases are not impacted"
-        - "Actively use testing to tools"
+        - "Being an expert in using testing tools, becoming a go to person to help your teach team or department"
         - "Test non functional areas of the product"
         - "Support any out of hours issues"
 ---

@@ -79,7 +79,7 @@ topics:
           - "Allocate Service issues to wider team"
       - level: 3
         criteria:
-          - "Onboards / mentors new testers, advising them on the Bright culture"
+          - "On-boards / mentors new testers, advising them on the Bright culture"
           - "Encourages team members to factor in Service issues and gets them resolved"
           - "Finds learning opportunities for others when reviewing their work and follows it up"
           - "Shares knowledge more freely, organising specific brown bags or workshops"

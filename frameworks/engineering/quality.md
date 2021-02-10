@@ -142,11 +142,7 @@ topics:
     content:
       - level: 1
         criteria:
-        - "Begins to apply exploratory testing 
-        
-        
-        
-        niques following guidance and training materials"
+        - "Begins to apply exploratory testing techniques following guidance and training materials"
         - "Starts to write and communicate simple bug reports with guidance"
         - "Attends and starts to add value team rituals"
         - "Uses tool assisted testing techniques to identify symptoms of bugs"

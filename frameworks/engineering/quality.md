@@ -142,7 +142,11 @@ topics:
     content:
       - level: 1
         criteria:
-        - "Begins to apply exploratory testing techniques following guidance and training materials"
+        - "Begins to apply exploratory testing 
+        
+        
+        
+        niques following guidance and training materials"
         - "Starts to write and communicate simple bug reports with guidance"
         - "Attends and starts to add value team rituals"
         - "Uses tool assisted testing techniques to identify symptoms of bugs"
@@ -196,7 +200,7 @@ topics:
         - "Support other areas of the business, with answers by validating assumptions quickly"
         - "Use testing tools confidently to generate outcomes"
         - "Maintain and support CI pipelines, so your releases are not impacted"
-        - "Being an expert in using testing tools, becoming a go to person to help your teach team or department"
+        - "Being an expert in using testing tools, becoming a go to person to help teach your team or the department"
         - "Test non functional areas of the product"
         - "Support any out of hours issues"
 ---

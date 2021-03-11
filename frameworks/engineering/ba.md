@@ -12,110 +12,128 @@ topics:
     content:
       - level: 1
         criteria:
-        - "Provides regular status updates to their squad and discipline"
-        - "Identifies improvements in business analysis artefacts"
-        - "Seeks guidance from other business analysts, rather than answers"
-        - "Accepts feedback graciously"
+        - "Proactively provides regular status updates to your team and discipline."
+        - "Actively communicates what you are working on and requests help when required. "
+        - "Identifies improvements in business analysis artefacts."
+        - "Seeks feedback and guidance from other business analysts and colleagues."
+        - "Accepts feedback graciously.  "
+        - "Manages own workload and highlights to manager when over-loaded or not enough to do."
+        - "Look to opportunities to support all disciplines in your delivery team to gain an understanding of what they do."
+        - "Proactively takes action to develop and improve your communication skills and understand how to approach different audiences."
+        - "Transparent about mistakes you have made."
+        - "Proactively seeks feedback from the people around you."
       - level: 2
         criteria:
-        - "Proactively communicates to their squad and discipline with what they are working on, why, how it's going and when they need help"
-        - "Accepts feedback graciously and looks to action feedback"
-        - "Gives feedback to peers when asked"
-        - "Communicates clearly to other disciplines and within squad with little need for clarification"
+        - "Accepts feedback graciously and looks to action feedback."
+        - "Proactively gives timely actionable feedback to peers in order to improve the quality of analysis deliverables as well as support for soft skills such as stakeholder management."
+        - "Proactively gives feedback to those you work with across different disciplines e.g. UX, QA."
+        - "Communicates clearly to other disciplines and within team with little need for clarification."
+        - "Communicates to a wider stakeholder group within business, IT and operational teams in BrightHR at peer level."
+        - "Manages your own time effectively, prioritises your workload well, on time for meetings, aware when blocking others and unblocks."
+        - "Considers the audience when delivering a message and makes it appropriate and relevant."
+        - "Has an understanding of the needs of your stakeholders in order to support your engagement with them."
+        - "Can successfully get buy-in for simple/medium complexity proposals."
       - level: 3
+        criteria: 
+        - "Clearly communicates throughout implementation and delivery of solutions."
+        - "Can present complex proposals and get buy-in from stakeholders."
+        - "Communicates to a wider stakeholder group within business, IT and operational teams in BrightHR at management/board level."
+        - "Is able to influence and guide stakeholders at mangement/board level. "
+       - level: 4
         criteria:
-          - "Transparent about mistakes they've made"
-          - "Proactively gives timely actionable feedback to peers"
-          - "Proactively seeks feedback from the people around them"
-          - "Considers the opinions of others before defending their own"
-      - level: 4
-        criteria:
-          - "Helps other people to develop and regularly gives insightful, useful feedback to those around them"
-          - "Talks to non-technical stakeholders on appropriate level of abstraction"
-          - "Transparent about feedback they have received and what they are going to do differently"
-  - name: "impact/delivery"
-    title:
-    content:
-      - level: 1
-        criteria:
-          - "Works as part of a squad and can self assign tasks"
-          - "Delivers assigned tasks, working with a more senior squad or discipline member, and able to take feedback to improve their work"
-          - "Attends planning meetings, inputting on improving quality early and can identify simple risks"
-      - level: 2
-        criteria:
-        - "Manage, document and communicate assumptions, decisions, risks, issues and dependencies"
-        - "Delivers assigned tasks that meet expected criteria"
-        - "Works as part of a squad, focuses on tasks that contribute to squad goals"
-        - "Tries to unblock themselves first before seeking help"
-        - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
-        - "Contributes to a well functioning squad and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone" 
-        - "Contributes to writing proposals (co-authors with more experienced analyst)"
-        - "Solves small/medium problems"
-        - "Break down features into manageable chunks with appropriate measurable acceptance criteria"
-      - level: 3
-        criteria:
-          - "Delivers large well-defined tasks and solves small scope not-well-defined problems"
-          - "Responsible for writing proposals"
-          - "Identifies areas of analysis that can be improved and suggests improvements"
-          - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized"
-
+        - "tbc"
+ 
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:
+    - level: 1
+        criteria:
+          - "Is proactive in developing the analysis skills required to progress and become more independent in the role." 
+          - "Supports a more experienced BA in delivering features."
       - level: 2
         criteria:
           - "Onboards new business analysts"
           - "Supports the recruitment process for the BA team e.g. reviewing CVs, attending interviews, feedback on candidates"
           - "Resolves conflicts between stakeholders" 
+          - "Completes the analysis activities for features with minimal support from other BAs."
       - level: 3
         criteria:
           - "Coaches and mentors within the BA competency"
           - "Finds learning opportunities for others when reviewing work and follows up"
           - "Defines and leads the recruitment process/strategy within the BA competency"
-          - "Performance manages other business analysts e.g. set and monitor objectives, complete reviews"
-          - "Line manages other business analysts e.g. absence management"
+          - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
+          - "Completes the analysis activities with no support from other BAs."
+      - level: 4
+        criteria:
+        - "tbc"
 
   - name: "influence"
     title: "✨ Influence"
     content:
       - level: 1
         criteria:
-        - "Improves documentation that is incorrect"
+        - "Develops an awareness of the organisational structure and the needs of different part of the business."
+        - "Develops rapport with members of your delivery team."
+        - "Develops an awareness of stakeholders in BrightHR; their role and influence in the organisation."
+        - "Attends planning meetings, inputting on improving quality early on and can identify simple risks."
+        - "Ensures feedback/analysis is validated internally via more senior colleague or own research before discussing with or presenting to a wider audience."
+        - "Improves documentation that is incorrect."
+        - "Works as part of a team and can self-assign tasks."
       - level: 2
         criteria:
-        - "Proactively raises issues they spot in retrospectives"
-        - "Provides feedback and suggestions to improve analysis artefacts"
-        - "Contributes to business analyst meetings/reviews and proactively suggests topics for discussion"
+        - "Manages assumptions, decisions, risks, issues and dependencies for your feature."
+        - "Solves small/medium problems."
+        - "Breaks down features into manageable chunks with appropriate measurable acceptance criteria."
+        - "Manage the scope of features and ensure appropriate delivery metrics are available."
+        - "Develops an awareness of stakeholders in the wider group, their role and the business domain they operate in."
+        - "Ensure success can be measured for your feature."
+        - "Proactively raises issues they spot in retrospectives and take ownership of actions."
+        - "Provides feedback and suggestions to improve analysis artefacts."
+        - "Contributes to business analyst meetings/reviews and proactively suggests topics for discussion."
+        - "Delivers assigned tasks that meet expected criteria."
+        - "Works as part of a team, focuses on tasks that contribute to team goals."
+
       - level: 3
-        criteria:
-        - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team"
-        - "Creates analysis artefacts and frameworks for the benefit of all analysts"
+      - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
+        - "Creates analysis artefacts and frameworks for the benefit of all analysts."
+        - "Delivers large well-defined tasks and solves small scope not-well-defined problems."
+        - "Responsible for writing proposals."
+        - "Identifies areas of analysis that can be improved and suggests improvements."
+        - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
+      - level: 4
+         - "tbc"
   
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
       - level: 1
         criteria:
-        - "Contributes to analysis activities and deliverables required to deliver change for a product or process"
-        - "Contributes to acceptance criteria"
-        - "Has an awareness of industry standard tools and techniques such as user stories, business and IT process mapping/swimlanes, data modelling, workshops, interviews"
+        - "Contributes to analysis activities and deliverables required to deliver change for a product or process."
+        - "Supports a more experienced BA in completing research and analysis to help address a particular problem or business need."
+        - "Supports a more experienced BA in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
+        - "Ensure analysis artefacts are of acceptable quality and to standards used by the team; request peer reviews, validate with other team members e.g. acceptance criteria for user stories."
+        - "Review other BAs artefacts to gain a good understanding of the needs of your role."
+        - "Has an awareness of some industry standard tools and techniques such as user stories, acceptance criteria, business and IT process mapping/swimlanes, data modelling, workshops, interviews."
       - level: 2
         criteria:
-        - "Completes analysis activities and deliverables required to deliver change for a product or process autonomously"   
+        - "Completes analysis activities and deliverables required to deliver change for a product or process autonomously."   
         - "Ensures artefacts meet acceptable quality standards; request peer review/3 amigos"
-        - "Analyses features, understands impact of change can analyse what areas will be affected by a change"
-        - "Independently creates acceptance criteria for business features with high customer visibility and medium business risk"
+        - "Analyses features, understands impact of change can analyse what areas will be affected by a change."
+        - " Analyses features, understands impact of change can analyse what areas will be affected by a change."
+        - "Independently creates acceptance criteria for business features with high customer visibility and medium business risk."
         - "Uses industry standard tools and techniques such as user stories, business and IT process mapping/swimlanes, data modelling, workshops, interviews"
-        - "Identifies processes, product features plus other impacts required to deliver recommendations"
-        - "Has an awareness of legislation impacting our products"
+        - "Identifies processes, product features plus other impacts required to deliver recommendations."
+        - "Has an awareness of legislation impacting our products."
       - level: 3
         criteria:
-        - "Defines and sets the standard for analysis activities and deliverables"          
-        - "Creates acceptance criteria for business features with high customer visibility and high business risk. Advises others on how to create acceptance criteria"
-        - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation"
-        - "Advises on analysis approach"       
-
-
+        - "Defines and sets the standard for analysis activities and deliverables."          
+        - "Creates acceptance criteria for business features with high customer visibility and high business risk. 
+        - "Advises others on how to create acceptance criteria."
+        - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
+        - "Advises on analysis approach."  
+       - level: 4
+        criteria:
+        - "Sets the standards for the discipline and ensures they are followed."  
 ---
 
 ### How does it work?

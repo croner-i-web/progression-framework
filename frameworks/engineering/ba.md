@@ -131,7 +131,7 @@ topics:
         - "Advises others on how to create acceptance criteria."
         - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
         - "Advises on analysis approach."  
-       - level: 4
+      - level: 4
         criteria:
         - "Sets the standards for the discipline and ensures they are followed."  
 ---

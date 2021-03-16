@@ -92,7 +92,6 @@ topics:
         - "Contributes to business analyst meetings/reviews and proactively suggests topics for discussion."
         - "Delivers assigned tasks that meet expected criteria."
         - "Works as part of a team, focuses on tasks that contribute to team goals."
-
       - level: 3
         criteria:
         - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."

@@ -39,7 +39,7 @@ topics:
         - "Can present complex proposals and get buy-in from stakeholders."
         - "Communicates to a wider stakeholder group within business, IT and operational teams in BrightHR at management/board level."
         - "Is able to influence and guide stakeholders at mangement/board level. "
-       - level: 4
+      - level: 4
         criteria:
         - "tbc"
  

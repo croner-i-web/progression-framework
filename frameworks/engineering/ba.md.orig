@@ -63,8 +63,13 @@ topics:
           - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
           - "Completes the analysis activities with no support from other BAs."
       - level: 4
+<<<<<<< HEAD
         criteria:
           - "tbc"
+=======
+      criteria:
+        - "tbc"
+>>>>>>> master
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -124,11 +129,19 @@ topics:
           - "Has an awareness of legislation impacting our products."
       - level: 3
         criteria:
+<<<<<<< HEAD
           - "Defines and sets the standard for analysis activities and deliverables."
           - "Creates acceptance criteria for business features with high customer visibility and high business risk."
-          - "Advises others on how to create acceptance criteria."
+          -   "Advises others on how to create acceptance criteria."
           - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
           - "Advises on analysis approach."
+=======
+        - "Defines and sets the standard for analysis activities and deliverables."
+        - "Creates acceptance criteria for business features with high customer visibility and high business risk."
+        - "Advises others on how to create acceptance criteria."
+        - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
+        - "Advises on analysis approach."
+>>>>>>> master
       - level: 4
         criteria:
           - "Sets the standards for the discipline and ensures they are followed."

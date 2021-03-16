@@ -47,22 +47,22 @@ topics:
     title: "👩‍💼 Leadership"
     content:
     - level: 1
-        criteria:
-          - "Is proactive in developing the analysis skills required to progress and become more independent in the role." 
-          - "Supports a more experienced BA in delivering features."
+      criteria:
+      - "Is proactive in developing the analysis skills required to progress and become more independent in the role." 
+      - "Supports a more experienced BA in delivering features."
       - level: 2
         criteria:
-          - "Onboards new business analysts"
-          - "Supports the recruitment process for the BA team e.g. reviewing CVs, attending interviews, feedback on candidates"
-          - "Resolves conflicts between stakeholders" 
-          - "Completes the analysis activities for features with minimal support from other BAs."
+        - "Onboards new business analysts"
+        - "Supports the recruitment process for the BA team e.g. reviewing CVs, attending interviews, feedback on candidates"
+        - "Resolves conflicts between stakeholders" 
+        - "Completes the analysis activities for features with minimal support from other BAs."
       - level: 3
         criteria:
-          - "Coaches and mentors within the BA competency"
-          - "Finds learning opportunities for others when reviewing work and follows up"
-          - "Defines and leads the recruitment process/strategy within the BA competency"
-          - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
-          - "Completes the analysis activities with no support from other BAs."
+        - "Coaches and mentors within the BA competency"
+        - "Finds learning opportunities for others when reviewing work and follows up"
+        - "Defines and leads the recruitment process/strategy within the BA competency"
+        - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
+        - "Completes the analysis activities with no support from other BAs."
       - level: 4
         criteria:
         - "tbc"
@@ -94,13 +94,15 @@ topics:
         - "Works as part of a team, focuses on tasks that contribute to team goals."
 
       - level: 3
-      - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
+        criteria:
+        - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
         - "Creates analysis artefacts and frameworks for the benefit of all analysts."
         - "Delivers large well-defined tasks and solves small scope not-well-defined problems."
         - "Responsible for writing proposals."
         - "Identifies areas of analysis that can be improved and suggests improvements."
         - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
       - level: 4
+        criteria:
          - "tbc"
   
   - name: "mastery"

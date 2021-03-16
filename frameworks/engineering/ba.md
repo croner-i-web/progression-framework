@@ -128,7 +128,7 @@ topics:
       - level: 3
         criteria:
         - "Defines and sets the standard for analysis activities and deliverables."
-        - "Creates acceptance criteria for business features with high customer visibility and high business risk.
+        - "Creates acceptance criteria for business features with high customer visibility and high business risk."
         - "Advises others on how to create acceptance criteria."
         - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
         - "Advises on analysis approach."

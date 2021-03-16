@@ -117,7 +117,7 @@ topics:
         - "Has an awareness of some industry standard tools and techniques such as user stories, acceptance criteria, business and IT process mapping/swimlanes, data modelling, workshops, interviews."
       - level: 2
         criteria:
-        - "Completes analysis activities and deliverables required to deliver change for a product or process autonomously."   
+        - "Completes analysis activities and deliverables required to deliver change for a product or process autonomously."
         - "Ensures artefacts meet acceptable quality standards; request peer review/3 amigos"
         - "Analyses features, understands impact of change can analyse what areas will be affected by a change."
         - " Analyses features, understands impact of change can analyse what areas will be affected by a change."
@@ -127,14 +127,14 @@ topics:
         - "Has an awareness of legislation impacting our products."
       - level: 3
         criteria:
-        - "Defines and sets the standard for analysis activities and deliverables."          
-        - "Creates acceptance criteria for business features with high customer visibility and high business risk. 
+        - "Defines and sets the standard for analysis activities and deliverables."
+        - "Creates acceptance criteria for business features with high customer visibility and high business risk.
         - "Advises others on how to create acceptance criteria."
         - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
-        - "Advises on analysis approach."  
+        - "Advises on analysis approach."
       - level: 4
         criteria:
-        - "Sets the standards for the discipline and ensures they are followed."  
+        - "Sets the standards for the discipline and ensures they are followed."
 ---
 
 ### How does it work?

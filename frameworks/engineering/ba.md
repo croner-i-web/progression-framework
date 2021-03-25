@@ -41,7 +41,7 @@ topics:
           - "Is able to influence and guide stakeholders at mangement/board level. "
       - level: 4
         criteria:
-          - "tbc"
+          - "Communicates the area’s role within the larger mission of the company."
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:
@@ -64,7 +64,9 @@ topics:
           - "Completes the analysis activities with no support from other BAs."
       - level: 4
         criteria:
-          - "tbc"
+          - "Coaches and mentors individuals within the BA discipline e.g. feedback to support objectives, promo-tion, personal development, specific areas to focus on."
+          - "Understands the company’s goals and makes decisions to help support the bigger picture."
+          - "Contributes to maintaining the Bright culture in their team, helping new joiners."
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -100,7 +102,10 @@ topics:
           - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
       - level: 4
         criteria:
-          - "tbc"
+          - "Influences and drives improvements to practices that the BA team have responsibility for."
+          - "Is aware of the outcomes of retrospectives across all delivery teams and addresses common themes within the BA team."
+          - "Supports delivery teams on BA resource allocation."
+          - "Has breadth and depth of knowledge of our organisational structure and the needs of different part of the business. "  
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
@@ -124,14 +129,33 @@ topics:
           - "Has an awareness of legislation impacting our products."
       - level: 3
         criteria:
-          - "Defines and sets the standard for analysis activities and deliverables."
-          - "Creates acceptance criteria for business features with high customer visibility and high business risk."
+          - "Defines and sets the standard for analysis activities and deliverables."          
+          - "Creates acceptance criteria for business features with high customer visibility and high business risk." 
           - "Advises others on how to create acceptance criteria."
           - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
-          - "Advises on analysis approach."
+          - "Advises on analysis approach."  
       - level: 4
         criteria:
-          - "Sets the standards for the discipline and ensures they are followed."
+          - "Sets the standards for the discipline and ensures they are followed."  
+          - "Lead by example."
+          - "Is aware of legislation impacting our business and consults with SME’s to ensure compliance is met."
+  - name: "impact"
+    title: "💥 Impact"
+    content:
+      - level: 1
+        criteria:
+        - ""
+      - level: 2
+        criteria:
+        - ""
+      - level: 3
+        criteria:
+        - ""  
+      - level: 4
+        criteria:
+          - "Defines the strategy within the BA team."  
+          - "Develops business analysis as a discipline, ensures quality and considers working practices."
+          - "Instils BA principles, tools and techniques in other analysts. Works with teams that are struggling."        
 ---
 
 ### How does it work?

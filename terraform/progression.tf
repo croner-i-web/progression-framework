@@ -44,6 +44,13 @@ resource "azurerm_cdn_endpoint" "progressionframework-cdn-endpoint" {
     is_http_allowed     = false
     origin_host_header  = azurerm_storage_account.progressionframework.primary_web_host
     optimization_type   = "GeneralWebDelivery"
+    
+    global_delivery_rule {
+        cache_expiration_action {
+            behavior = "Override"
+            duration = "00:05:00"
+        }
+    }
     is_compression_enabled = true
     content_types_to_compress = [
         "application/eot",

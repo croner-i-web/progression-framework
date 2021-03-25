@@ -20,7 +20,3 @@ provider "azurerm" {
   version = "=2.49.0"
   features {}
 }
-
-provider "null" {
-  version = "=3.0.0"
-}

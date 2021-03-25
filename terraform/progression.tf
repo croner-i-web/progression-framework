@@ -1,10 +1,13 @@
-variable "webname" {
-    default = "progression-framework"
-}
-
 resource "azurerm_resource_group" "rg-progression-framework" {
     name     = "RG-Progression-Framework"
     location = "North Europe"
+    
+    tags ={
+        "Domain"      = "Personal Development"
+        "Environment" = "Prod"
+        "Product"     = "Career Framework"
+        "Territory"   = "UK"
+    }
 }
 
 resource "azurerm_storage_account" "progressionframework" {
@@ -23,25 +26,24 @@ resource "azurerm_storage_account" "progressionframework" {
 }
 
 resource "azurerm_cdn_profile" "progressionframework-cdn-profile" {
-  name                = "${var.webname}-cdn-profile"
-  location            = azurerm_resource_group.rg-progression-framework.location
-  resource_group_name = azurerm_resource_group.rg-progression-framework.name
-
-  sku                 = "Standard_Microsoft"
+    name                = "progression-framework-cdn-profile"
+    location            = azurerm_resource_group.rg-progression-framework.location
+    resource_group_name = azurerm_resource_group.rg-progression-framework.name
+    
+    sku                 = "Standard_Microsoft"
           
-  depends_on          = [azurerm_storage_account.progressionframework]
+    depends_on          = [azurerm_storage_account.progressionframework]
 }
 
 resource "azurerm_cdn_endpoint" "progressionframework-cdn-endpoint" {
-    name                = "${var.webname}-cdn-endpoint"
+    name                = "progression-framework-cdn-endpoint"
     resource_group_name = azurerm_resource_group.rg-progression-framework.name
+    location            = azurerm_resource_group.rg-progression-framework.location
 
-    location            = "global"
-
-    profile_name      = azurerm_cdn_profile.progressionframework-cdn-profile.name
-    is_http_allowed   = false
-  origin_host_header  = azurerm_storage_account.progressionframework.primary_web_host
-  optimization_type   = "GeneralWebDelivery"
+    profile_name        = azurerm_cdn_profile.progressionframework-cdn-profile.name
+    is_http_allowed     = false
+    origin_host_header  = azurerm_storage_account.progressionframework.primary_web_host
+    optimization_type   = "GeneralWebDelivery"
     is_compression_enabled = true
     content_types_to_compress = [
         "application/eot",
@@ -87,9 +89,10 @@ resource "azurerm_cdn_endpoint" "progressionframework-cdn-endpoint" {
         "text/x-java-source"]
   
   origin {
-    name       = "${var.webname}-${azurerm_storage_account.progressionframework.name}"
+    name       = "progression-framework-${azurerm_storage_account.progressionframework.name}"
     host_name  = azurerm_storage_account.progressionframework.primary_web_host
     https_port = "443"
-  }
-  depends_on = [azurerm_cdn_profile.progressionframework-cdn-profile]
+    }
+    
+    depends_on = [azurerm_cdn_profile.progressionframework-cdn-profile]
 }

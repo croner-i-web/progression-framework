@@ -1,10 +1,10 @@
 ---
-path: "/engineering/ba"
-title: "💼 Business Analyst Framework"
-sidebarTitle: "💼 BA"
-sidebarGroup: "engineering"
+path: "/ba/ba-leader"
+title: "🔎 Business Analyst Framework"
+sidebarTitle: "🔎 Head of Business Analysis"
+sidebarGroup: "ba"
 yaml: true
-levels: 4
+levels: 2
 homepage: true
 topics:
   - name: "communication"

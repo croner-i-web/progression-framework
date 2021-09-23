@@ -1,15 +1,14 @@
 <p align="center">
-  <a href="https://www.brighthr.com">
-    <img alt="Bright favicon" src="./src/images/favicon.png" width="60" />
+  <a href="https://www.croneri.co.uk/">
+    <img alt="Croner-i logo" src="./src/images/logo.png" width="219" />
   </a>
 </p>
 <h1 align="center">
-    Progression at Bright 🎉
+    Progression at Croner-i 🎉
 </h1>
 
-Welcome to the Progression at Bright repository 💪
+Welcome to the Progression at Croner-i repository 💪
 
-Changes merged to master automatically get deployed to [https://progression-framework-cdn-endpoint.azureedge.net/](https://progression-framework-cdn-endpoint.azureedge.net/)
 
 **Get stuck? There's a glossary at the bottom of this readme!**
 
@@ -134,4 +133,4 @@ This will automatically save your changes and open a pull request, allowing the 
 
 
 ### 🤓 Looking for technical documentation?
-Take a look at the readme in the `src/` directory (https://github.com/brighthr/progression-framework/tree/master/src)
+Take a look at the readme in the `src/` directory (https://github.com/croner-i-web/progression-framework/tree/master/src)

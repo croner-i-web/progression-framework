@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://www.brighthr.com">
-    <img alt="Bright favicon" src="./images/favicon.png" width="60" />
+  <a href="https://www.croneri.co.uk">
+    <img alt="Croner-i Logo" src="./images/logo.png" width="219
+" />
   </a>
 </p>
 <h1 align="center">

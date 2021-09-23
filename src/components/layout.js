@@ -2,7 +2,7 @@
 import * as React from 'react'
 import { Location } from '@reach/router'
 import { Helmet } from 'react-helmet'
-import favicon from '../images/favicon.png'
+import favicon from '../images/logo.png'
 import menuIcon from '../images/menu_icon.svg'
 import closeIcon from '../images/close_icon.svg'
 import SidebarBuilder from './sidebarBuilder'
@@ -39,7 +39,7 @@ const ToolbarRenderer = ({ sidebarClickHandler, isSidebarVisible }: Object) =>
     <Toolbar className={isSidebarVisible ? 'visible' : null}>
       <MenuIcon onClick={sidebarClickHandler} src={menuIcon} />
       <ToolbarPushWrapper>
-        <ToolbarIcon src={favicon} alt="Bright" />
+        <ToolbarIcon src={favicon} alt="Croner-i" />
       </ToolbarPushWrapper>
     </Toolbar>
   )
@@ -56,7 +56,7 @@ const SidebarRenderer = ({
           <SidebarReset>
             <SidebarScroll>
               <ScrollbarHeader>
-                <SidebarIcon src={favicon} alt="Bright" />
+                <SidebarIcon src={favicon} alt="Croner-i" />
                 <FlexboxPush>
                   <CloseIcon onClick={sidebarClickHandler} src={closeIcon} />
                 </FlexboxPush>
@@ -103,7 +103,7 @@ class Layout extends React.Component<Props, State> {
     return (
       <Contain>
         <Helmet>
-          <title>Progression at Bright</title>
+          <title>Progression at Croner-i</title>
         </Helmet>
         <SidebarRenderer
           data={data}

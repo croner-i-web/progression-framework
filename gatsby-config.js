@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Bright Progression',
+    title: 'Croner-i Progression',
   },
   plugins: [
     `gatsby-plugin-styled-components`,

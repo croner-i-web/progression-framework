@@ -2,7 +2,6 @@
 import * as React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
-import LowFundsAnimation from '../components/animations/lowFunds'
 import {
   ErrorPageLink,
   ErrorPageHeader,
@@ -35,7 +34,7 @@ export default class Frameworks extends React.Component<Props> {
                 </ErrorPageLink>
               </div>
               <div className="grid-col-12 grid-col-4-md">
-                <LowFundsAnimation />
+                <img src="../components/animations/R.gif" alt="Error 404"/>
               </div>
             </div>
           </div>

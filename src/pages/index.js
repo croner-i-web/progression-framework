@@ -23,10 +23,10 @@ export default class Index extends React.Component<Props> {
         <DescriptionView>
           <DescriptionTitleGroup>
             <Subtitle>Welcome To</Subtitle>
-            <Title>Progression at Bright 🎉</Title>
+            <Title>Progression at Croner-i 🎉</Title>
           </DescriptionTitleGroup>
           <Description>
-            <DescriptionText>This is where we keep the progression frameworks we use at Bright.</DescriptionText>
+            <DescriptionText>This is where we keep the progression frameworks we use at Croner-i.</DescriptionText>
             <DescriptionText>
               It’s a guide that sets out the things we expect from engineers, at different levels across the company.
               They’re divided into five categories:</DescriptionText>
@@ -66,7 +66,7 @@ export default class Index extends React.Component<Props> {
             </DescriptionText>
 
             <DescriptionText>
-              This framework was completely inspired by the folks at Monzo.
+              This framework was completely inspired (via Bright) by the folks at Monzo.
               You can find out more about their progression framework and what it means
               to them in this {' '}
               <a href="https://monzo.com/blog/2019/01/07/progression">

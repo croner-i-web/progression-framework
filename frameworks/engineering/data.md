@@ -12,7 +12,6 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their mentor/buddy"
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
@@ -77,7 +76,7 @@ topics:
           - "Breaks down projects into smaller iterative steps that each deliver value"
       - level: 5
         criteria:
-          - "Solves the 'hard problem' in a project e.g. Mastercard crypto and sees it through to resolution"
+          - "Solves the 'hard problem' in a project"
           - "Solves larger ambiguous problems"
           - "Leads incident resolutions"
           - "Makes judgements about when to diverge from the immediate goal to achieve something else"
@@ -101,11 +100,11 @@ topics:
               - "I think this code could be improved by doing X, let's pair on it and I'll talk through why X is good for this"
       - level: 4
         criteria:
-          - "Contributes to maintaining the Bright culture in their team, helping new joiners"
+          - "Contributes to maintaining an agile, learning culture in their team, helping new joiners"
           - "Gets buy-in on technical decision-making and proposed designs"
           - "Proactively involves other relevant engineers"
           - "Sought out for code reviews"
-          - "Instills Bright engineering principles in other engineers"
+          - "Instills Croner-i engineering principles in other engineers"
           - "Helps the growth of engineers around them through coaching and mentoring"
           - "Helps their squad work together more effectively"
           - "Helps facilitate team/squad rituals"
@@ -115,7 +114,7 @@ topics:
               - "I've used RxJava for the first time here, I'm going to do a talk about why I've done this, here's some great blog posts on it"
       - level: 5
         criteria:
-          - "Instills Bright engineering principles across a whole squad of engineers"
+          - "Instills Croner-i engineering principles across a whole squad of engineers"
           - "Works with relevant Engineering Managers to help other engineers perform and grow"
           - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
           - "Delegates technical decisions with low risk and high reversibility"
@@ -142,7 +141,6 @@ topics:
           - "Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
       - level: 4
         criteria:
-          - "Contributes to data team blog"
           - "Maintains documentation on things they know the most, makes it easy for future engineers to interact with systems/code"
           - "Clears blockers for junior team members, provides context/guidance, or knows how to escalate"
         exampleCriteria:
@@ -151,8 +149,8 @@ topics:
               - "leads calls, does onsite interviews"
       - level: 5
         criteria:
-          - "Represents Bright at conferences/events"
-          - "Given as reason for other engineers to join Bright"
+          - "Represents Croner-i at conferences/events"
+          - "Given as reason for other engineers to join Croner-i"
           - "Proactively shares knowledge internally"
           - "Acts as the 'sole proprietor', in the CEO mindset, their ego/agenda is not a factor in their thinking or decision making"
       - level: 6
@@ -166,10 +164,10 @@ topics:
         criteria:
           - "Comfortable with using git and contributing to our code base"
           - "Can extend existing data models and design simple new ones"
-          - "Creates new Looker views and dashboards; extracts basic insights quickly from existing Looker explores"
+          - "Creates new dashboards; extracts basic insights quickly from existing data"
           - "Strong SQL skills"
           - "Implements basic prediction models quickly"
-          - "Basic Python or R skills"
+          - "Basic Python, R or other suitable data engineering skills"
           - "Delivers assigned tasks that meet expected criteria"
           - "Tries to unblock themselves first before seeking help"
           - "Works for the team, focuses on tasks that contribute to team goals"
@@ -178,12 +176,10 @@ topics:
             examples:
               - "Knows how the team is organised, who is who, what are the goals, current priorities, biggest challenges etc."
           - criteria: "Translates business questions into analysable hypothesis and answers those"
-            examples:
-              - "Question from business 'Why do salaried users cost us twice as much on customer support?' → cost are allocated by number of intercom queries → salaried users must be generating more queries → Is of queries proportional to engagement? → Are all salaried users are over-proportionally struggling with particular problems (e.g. missing bank statements) → etc."
           - criteria: "Picks the right visualisation types for the data at hand"
             examples:
               - "distributions, time series, scatter plots etc"
-          - criteria: "Basic stats and math knowledge"
+          - criteria: "Stats and math knowledge"
             examples:
               - "Able to find a formula to calculate confidence intervals for different measurement scenarios, knows how to interpret those etc."
       - level: 2
@@ -234,7 +230,7 @@ topics:
       - level: 5
         criteria:
           - "Solves larger ambiguous/not well defined problems"
-          - "Contributes to maintaining Bright's culture in the wider company"
+          - "Contributes to maintaining Croner-i's culture in the wider company"
           - "Proactively thinks about how we can get better at our purpose: quicker and better decisions based on data" 
         exampleCriteria:
           - criteria: "Builds out a strong internal network"
@@ -329,8 +325,8 @@ The framework is a compass, not a GPS.
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers at Bright. We’re interested in these five elements:
-- Mastery - Your Bright knowledge and technical capability
+The framework covers all the things we’re looking for from engineers at Croner-i. We’re interested in these five elements:
+- Mastery - Your Croner-i knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better
 - Comms & Feedback - How you interact with others
@@ -341,7 +337,7 @@ We sort them into six levels, and we try to give specific examples of behaviours
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
 ### Things to keep in mind
-- There are many different ways to progress and be valuable to Bright as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Bright's engineering team.
+- There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's engineering team.
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Engineering progression isn’t an exact science and there will always be some ambiguity.
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.

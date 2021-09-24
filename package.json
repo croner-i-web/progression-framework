@@ -1,9 +1,9 @@
 {
-  "name": "@brighthr/progression-framework",
+  "name": "@croner-i-web/progression-framework",
   "private": true,
   "version": "1.0.0",
-  "description": "BrightHR progression framework site",
-  "author": "Alex Maher<alex.maher@brighthr.com> Prav Patel<prav.patel@brighthr.com> Paul Touhey<paul.touhey@brighthr.com>",
+  "description": "Croner-i progression framework site",
+  "author": "Bill Coughlan<bill.coughlan@croneri.co.uk>",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brighthr/progression-framework.git"
+    "url": "git+https://github.com/croner-i-web/progression-framework.git"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0",

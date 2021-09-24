@@ -79,7 +79,7 @@ topics:
           - "Allocate Service issues to wider team"
       - level: 3
         criteria:
-          - "Onboards / mentors new testers, advising them on the Bright culture"
+          - "Onboards / mentors new testers, advising them on the our learning culture"
           - "Encourages team members to factor in Service issues and gets them resolved"
           - "Finds learning opportunities for others when reviewing their work and follows it up"
           - "Shares knowledge more freely, organising specific brown bags or workshops"
@@ -88,7 +88,7 @@ topics:
           - "Helps team members prioritise work or resolve issues they may have"
       - level: 4
         criteria:
-          - "Contributes to maintaining the Bright culture in their team, helping new joiners"
+          - "Contributes to maintaining the inclusive, learning culture in their team, helping new joiners"
           - "Recommends buy-in on decision-making and proposed designs"
           - "Can highlight any concerns or issues impacting delivery to senior stakeholders" 
           - "Helps the growth of the QA team through coaching and mentoring"
@@ -152,7 +152,7 @@ topics:
         - "Organise and optimise own work and learning"
         - "Can support multiple streams of delivery"
         - "Capable of releasing code changes into production"
-        - "Learn Bright product behaviours"
+        - "Learn Croner-i product behaviours"
       - level: 2
         criteria:
         - "Analyses features, understands impact of change. Can analyse what areas will be affected by a change"
@@ -184,7 +184,7 @@ topics:
         - "Debugs complex defects, able to capture root cause (not just symptoms)"
         - "Identifies areas of testing within the business that can be improved and suggests improvements"
         - "Always looks to apply better techniques to test and to save on manual effort"
-        - "Have an in depth understanding of all the products within Bright"
+        - "Have an in depth understanding of all the products within Croner-i"
         - "Understand CI pipelines"
         - "Seek support to resolve issues any CI issues which would impact your release"
       - level: 4
@@ -201,9 +201,9 @@ topics:
 ---
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers and managers at Bright.
+The framework covers all the things we’re looking for from engineers and managers at Croner-i.
 We’re interested in these five elements:
-- Mastery - Your Bright knowledge and technical capability
+- Mastery - Your knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better
 - Communication & Feedback - How you interact with others
@@ -214,7 +214,7 @@ We sort them into four levels, and we try to give specific examples of behaviour
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
 ### Things to keep in mind
-- There are many different ways to progress and be valuable to Bright as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Bright's engineering team.
+- There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's engineering team.
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Engineering progression isn’t an exact science and there will always be some ambiguity.
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.

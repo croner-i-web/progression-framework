@@ -326,7 +326,7 @@ It's meant to be helpful. It's not meant to be a rating system for humans, free 
 
 ### How does it work?
 The framework covers all the things we’re looking for from engineers at Croner-i. We’re interested in these five elements:
-- Mastery - Your Croner-i knowledge and technical capability
+- Mastery - Your knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better
 - Comms & Feedback - How you interact with others

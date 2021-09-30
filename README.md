@@ -133,4 +133,4 @@ This will automatically save your changes and open a pull request, allowing the 
 
 
 ### 🤓 Looking for technical documentation?
-Take a look at the readme in the `src/` directory (https://github.com/croner-i-web/progression-framework/src)
+Take a look at the readme in the `src/` directory (https://github.com/croner-i-web/progression-framework/tree/master/src)

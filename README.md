@@ -121,7 +121,7 @@ This will automatically save your changes and open a pull request, allowing the 
 
 **Repository (Repo)**: A folder in GitHub where files live
 
-*If you've seen the word 'repo', we're probably talking about the Progression Framework folder in GitHub that you're on right now (https://github.com/brighthr/progression-framework)*
+*If you've seen the word 'repo', we're probably talking about the Progression Framework folder in GitHub that you're on right now (https://github.com/croner-i-web/progression-framework)*
 
 **Pull Request (PR)**: A request to change a file, or multiple files on GitHub
 
@@ -133,4 +133,4 @@ This will automatically save your changes and open a pull request, allowing the 
 
 
 ### 🤓 Looking for technical documentation?
-Take a look at the readme in the `src/` directory (https://github.com/croner-i-web/progression-framework/tree/master/src)
+Take a look at the readme in the `src/` directory (https://github.com/croner-i-web/progression-framework/src)

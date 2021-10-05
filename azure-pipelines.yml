@@ -33,4 +33,25 @@ steps:
         terraform/**/*
       targetFolder: $(Build.ArtifactStagingDirectory)
 
-  - task: PublishBuildArtifacts@1
+  - publish: $(Build.ArtifactStagingDirectory)
+    displayName: 'Publish Artifact.'
+    artifact: croner-i-progression-framework
+
+  - task: DeleteFiles@1
+    inputs:
+      SourceFolder: 
+      Contents: '**/*'
+      RemoveDotFiles: true
+
+  - task: DownloadPipelineArtifact@2
+    displayName: 'Download Artifact'
+    inputs:
+      buildType: 'current'
+      targetPath: '$(Build.SourcesDirectory)'
+
+  - task: AzureStaticWebApp@0
+    displayName: 'Deploy Static Web App'
+    inputs:
+      app_location: 'croner-i-progression-framework'
+      skip_app_build: true
+      azure_static_web_apps_api_token: '$(deploy-token)'

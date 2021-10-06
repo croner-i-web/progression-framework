@@ -2,7 +2,7 @@
 path: "/ba/ba-individual-contributor"
 title: "🔍 Business Analyst Framework"
 sidebarTitle: "🔍 Business Analyst"
-sidebarGroup: "ba"
+sidebarGroup: "Business Analysis"
 yaml: true
 levels: 4
 homepage: true

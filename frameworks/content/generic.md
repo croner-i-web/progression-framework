@@ -2,7 +2,7 @@
 path: "/content/generic"
 title: "📄 Generic Framework"
 sidebarTitle: "📄 Generic"
-sidebarGroup:
+sidebarGroup: "Content Engineering"
 yaml: true
 levels: 6
 homepage: false

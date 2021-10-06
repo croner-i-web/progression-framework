@@ -2,7 +2,7 @@
 path: "/ba/ba-leader"
 title: "🔎 Business Analyst Framework"
 sidebarTitle: "🔎 Head of Business Analysis"
-sidebarGroup: "ba"
+sidebarGroup: "Business Analysis"
 yaml: true
 levels: 2
 homepage: true

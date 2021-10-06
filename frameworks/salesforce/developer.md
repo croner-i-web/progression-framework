@@ -1,7 +1,7 @@
 ---
 path: "/salesforce/developer"
-title: "📄 Salesforce Developer"
-sidebarTitle: "📄 Developer"
+title: "🔩 Salesforce Developer"
+sidebarTitle: "🔩 Developer"
 sidebarGroup: "salesforce"
 yaml: true
 levels: 6

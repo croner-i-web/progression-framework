@@ -1,7 +1,7 @@
 ---
-path: "/content/generic"
-title: "📄 Generic Framework"
-sidebarTitle: "📄 Generic"
+path: "/content/analyst"
+title: "⚙️ Content Analyst"
+sidebarTitle: "⚙️ Analyst"
 sidebarGroup: "Content Engineering"
 yaml: true
 levels: 6

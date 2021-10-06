@@ -1,7 +1,7 @@
 ---
 path: "/salesforce/admin"
-title: "📄 Salesforce Administrator"
-sidebarTitle: "📄 Administrator"
+title: "🔧 Salesforce Administrator"
+sidebarTitle: "🔧 Administrator"
 sidebarGroup: "salesforce"
 yaml: true
 levels: 6

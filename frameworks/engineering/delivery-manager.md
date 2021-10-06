@@ -131,7 +131,7 @@ The framework is a compass, not a GPS. 🧭
 
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
-How does it work?
+### How does it work?
 The framework covers all the things we’re looking for from delivery managers at Croner-i. We’re interested in these five elements:
 
 - Knowledge - Your knowledge and technical ability

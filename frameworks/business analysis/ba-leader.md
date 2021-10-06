@@ -28,7 +28,7 @@ topics:
           - "Proactively gives timely actionable feedback to peers in order to improve the quality of analysis deliverables as well as support for soft skills such as stakeholder management."
           - "Proactively gives feedback to those you work with across different disciplines e.g. UX, QA."
           - "Communicates clearly to other disciplines and within team with little need for clarification."
-          - "Communicates to a wider stakeholder group within business, IT and operational teams in BrightHR at peer level."
+          - "Communicates to a wider stakeholder group within business, IT and operational teams in Croner-iHR at peer level."
           - "Manages your own time effectively, prioritises your workload well, on time for meetings, aware when blocking others and unblocks."
           - "Considers the audience when delivering a message and makes it appropriate and relevant."
           - "Has an understanding of the needs of your stakeholders in order to support your engagement with them."
@@ -37,7 +37,7 @@ topics:
         criteria: 
           - "Clearly communicates throughout implementation and delivery of solutions."
           - "Can present complex proposals and get buy-in from stakeholders."
-          - "Communicates to a wider stakeholder group within business, IT and operational teams in BrightHR at management/board level."
+          - "Communicates to a wider stakeholder group within business, IT and operational teams in Croner-iHR at management/board level."
           - "Is able to influence and guide stakeholders at mangement/board level. "
       - level: 4
         criteria:
@@ -66,7 +66,7 @@ topics:
         criteria:
           - "Coaches and mentors individuals within the BA discipline e.g. feedback to support objectives, promo-tion, personal development, specific areas to focus on."
           - "Understands the company’s goals and makes decisions to help support the bigger picture."
-          - "Contributes to maintaining the Bright culture in their team, helping new joiners."
+          - "Contributes to maintaining the Croner-i culture in their team, helping new joiners."
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -74,7 +74,7 @@ topics:
         criteria:
           - "Develops an awareness of the organisational structure and the needs of different part of the business."
           - "Develops rapport with members of your delivery team."
-          - "Develops an awareness of stakeholders in BrightHR; their role and influence in the organisation."
+          - "Develops an awareness of stakeholders in Croner-iHR; their role and influence in the organisation."
           - "Attends planning meetings, inputting on improving quality early on and can identify simple risks."
           - "Ensures feedback/analysis is validated internally via more senior colleague or own research before discussing with or presenting to a wider audience."
           - "Improves documentation that is incorrect."
@@ -159,8 +159,8 @@ topics:
 ---
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers at Bright. We’re interested in these five elements:
-- Mastery - Your Bright knowledge and technical capability
+The framework covers all the things we’re looking for from engineers at Croner-i. We’re interested in these five elements:
+- Mastery - Your knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better
 - Comms & Feedback - How you interact with others
@@ -171,7 +171,7 @@ We sort them into four levels, and we try to give specific examples of behaviour
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
 ### Things to keep in mind
-- There are many different ways to progress and be valuable to Bright as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Bright's engineering team.
+- There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's engineering team.
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Engineering progression isn’t an exact science and there will always be some ambiguity.
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.

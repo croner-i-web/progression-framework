@@ -5,7 +5,7 @@ sidebarTitle: "📐 Delivery Manager"
 sidebarGroup: "engineering"
 yaml: true
 levels: 2
-homepage: false
+homepage: true
 topics:
   - name: "knowledge"
     title: "🧠 Knowledge"

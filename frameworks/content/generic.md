@@ -1,5 +1,5 @@
 ---
-path: "/generic"
+path: "/content/generic"
 title: "📄 Generic Framework"
 sidebarTitle: "📄 Generic"
 sidebarGroup:

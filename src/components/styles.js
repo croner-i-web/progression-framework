@@ -11,7 +11,7 @@ export const BREAKPOINT_TABLET = 1024
 export const BREAKPOINT_DESKTOP = 1300
 export const MIDNIGHT_SKY = '#14233c'
 export const LAGOON_BLUE = '#145d8e'
-export const GREY_BLUE = '#707b8c'
+export const GREY_BLUE = '#1B2233'
 
 // Styles
 // Error page

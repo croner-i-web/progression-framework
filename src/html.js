@@ -23,7 +23,7 @@ export default class HTML extends React.Component<Props> {
             content="width=device-width, initial-scale=1, viewport-fit=cover, shrink-to-fit=no"
           />
           <link
-            href="https://monzo.com/static/css/monzo-framework.min.css"
+            href="/css/monzo-framework.min.css"
             rel="stylesheet"
           />
           {this.props.headComponents}

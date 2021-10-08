@@ -1,6 +1,6 @@
 ---
 path: "/content/analyst"
-title: "⚙️ Content Analyst"
+title: "⚙️ Content Analyst (Draft)"
 sidebarTitle: "⚙️ Analyst"
 sidebarGroup: "Content Engineering"
 yaml: true

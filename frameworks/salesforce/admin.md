@@ -14,26 +14,31 @@ topics:
         criteria:
           - "Learning just as much as adding value"
           - "Has enough knowledge to make informed decisions"
-          - "Doesn’t necessarily know what they don’t know"
+          - "Provides solutions to first line support cases"
+          - "Adds value to the org through small scale configuration, supported by senior admins within the team"
       - level: 2
         criteria:
           - "Identifies areas/subjects they don’t know and proactively seeks out knowledge"
-          - "Increased domain knowledge"
+          - "Increased Salesforce knowledge and configuration skills"
           - "Aware of their weaknesses"
       - level: 3
         criteria:
+          - "The ‘go to’ person for delivering swift and efficient solutions to first line support"
+          - "Configuring, developing and supporting the company Salesforce org in line with best practice"
           - "Additional expertise or breadth of knowledge"
       - level: 4
         criteria:
-          - "Has depth of knowledge in a particular area and breadth of knowledge across their domain"
+          - "Extensive experience of the Salesforce platform and configuration"
+          - "Provides problem solving and technical skills to design quality solutions"
           - "You know who the experts are and delegate accordingly"
       - level: 5
         criteria:
-          - "Wide breadth of knowledge"
-          - "Can easily context switch within their area and pick up new concepts"
+          - "Leads the configuration of the Salesforce org in line with best practice"
+          - "Provides strong problem solving and technical skills to effectively design quality solutions"
+          - "Being pro-active in suggesting improvements to the configuration of the system, or new tools or ways of working."
       - level: 6
         criteria:
-          - "Has a high-level understanding of all the areas they own"
+          - "Has a high-level understanding of Salesforce"
           - "Understands the wider business context"
   - name: "impact"
     title: "💥 Impact"
@@ -64,8 +69,8 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Actively communicates what they are working on"
-          - "Seeks out feedback"
+          - "Actively communicates what they are working on in a clear and concise manner"
+          - "Seeks out feedback and support on tasks that they don’t know how to resolve"
       - level: 2
         criteria:
           - "Can deliver their work to their team and others"
@@ -126,7 +131,7 @@ topics:
       - level: 1
         criteria:
           - "Follows policies and procedures applicable to role"
-          - "Completes training"
+          - "Completes training/self development time"
           - "Identifies risks related to own areas"
       - level: 2
         criteria:
@@ -155,3 +160,25 @@ topics:
           - "Contributes to thought leadership on effective and creative risk management throughout the industry"
           - "Proactively identifies holistic measures to robust risk management and implements them company-wide"
 ---
+### How does it work?
+The framework covers all the things we’re looking for from Saleforce professionals at Croner-i. We’re interested in these five elements:
+
+- Knowledge - Your knowledge and technical capability of Salesforce
+- Impact - The size, scope and value of what you deliver
+- Conduct - How you conduct yourself professionally change the world around you for the better
+- Comms & Feedback - How you interact with others
+- Teamwork - How you collaborate in a larger team and help the team become higher performing
+
+We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+
+Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
+
+### Things to keep in mind
+There are many different ways to progress and be valuable to Croner-i as you grow, including deep knowledge and ability within Salesforce, leadership and people management. All are equally valuable paths in Croner-i's technology team.
+The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
+Progression isn’t an exact science and there will always be some ambiguity.
+This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
+If you still have any questions, please ask your manager.
+
+### Give us your feedback!
+This is only the first version of our framework and we really want your feedback. We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.

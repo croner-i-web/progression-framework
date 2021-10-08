@@ -5,7 +5,7 @@ sidebarTitle: "🔧 Administrator"
 sidebarGroup: "salesforce"
 yaml: true
 levels: 6
-homepage: false
+homepage: true
 topics:
   - name: "knowledge"
     title: "🧠 Knowledge"

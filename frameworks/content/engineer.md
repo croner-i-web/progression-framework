@@ -123,7 +123,7 @@ topics:
           - "Learns to extend existing code, following guidance and training materials"
           - "Can investigate production issues and investigate and fix simple bugs"
           - "Develops code test first"
-           - "Writes correct code following accepted best practices"
+          - "Writes correct code following accepted best practices"
           - "Design database tables"
           - "Able to design and implement restful APIs"
           - "Use Azure Devops to configure deployment of services into multiple environments"

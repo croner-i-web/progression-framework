@@ -131,11 +131,12 @@ topics:
           - "Uses appropriate design patterns for the creation of intelligent structured content"
           - "Has an awareness of how to optimize the creation of intelligent structured content"
           - "Has an awareness of all aspects of the content workflow"
-      - level: 4
+          - "Identifies and fixes content issues"
+       - level: 4
         criteria:
           - "Determines how to optimize the creation of intelligent structured content"
           - "Debugs production issues at speed"
-          - "Identifies and fixes content issues"
+          - "Identifies content issues, understand candidate solutions and implemnts the most appropriate"
           - "Explains all aspects of the content workflow to new engineers"
           - "Builds solutions that scale reliably or can be extended without intervention"
 ---

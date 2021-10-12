@@ -117,27 +117,22 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Has an awareness of some tools and techniques such as content models, re-use strategies, taxonomy and metadata, content workflows, technology selection and configuration"
-          - "Has an awareness of how to optimize the creation of intelligent structured content"
-          - "Contributes to activities and deliverables required to deliver change for a product or process."
+          - "Has an awareness and knowledge of all areas of the content engineering domain such as content models, re-use strategies, taxonomy and metadata, content workflows, technology selection and configuration"
+          - "Has an awareness and knowledge of all how to optimize the creation of intelligent structured content"
           - "Supports a more experienced Content Engineer and/or Analysts in completing research and analysis to help address a particular problem or business need."
           - "Supports a more experienced Content Engineer in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
       - level: 2
         criteria:
           - "Determines how to optimize the creation of intelligent structured content"
-          - "Completes activities and deliverables required to deliver change for a product or process autonomously."
-          - "Analyses requirements, understands impact of change can analyse what areas will be affected by a change."
-          - "Identifies processes, product features plus other impacts required to deliver recommendations."
-      - level: 3
-        criteria:
-          - "Has depth of knowledge in a particular area and breadth of knowledge across their domain"
-          - "You know who the experts are and delegate accordingly"
-      - level: 4
-        criteria:
-          - "Has a high-level understanding of all the areas they own"
+          - "Has a high-level understanding of all areas of the content engineering domain they own"
+          - "Has a high-level understanding of all areas they own"
           - "Understands the wider business context"
           - "Lead by example."
----
+      - level: 3
+        criteria:
+      - level: 4
+        criteria:
+ ---
 ### About our content engineering progression frameworks
 The content engineering progression framework is a tool that helps content engineers and managers:
 - make development and career plans

@@ -127,34 +127,26 @@ topics:
     content:
       - level: 1
         criteria:
+          - "Has an awareness of some tools and techniques such as content models, re-use strategies, taxonomy and metadata, content workflows, technology selection and configuration"
+          - "Has an awareness of how to optimize the creation of intelligent structured content"
           - "Contributes to activities and deliverables required to deliver change for a product or process."
-          - "Supports a more experienced Content Engineer in completing research and analysis to help address a particular problem or business need."
+          - "Supports a more experienced Content Engineer and/or Analysts in completing research and analysis to help address a particular problem or business need."
           - "Supports a more experienced Content Engineer in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
-          - "Ensure artefacts and deliverables are of acceptable quality and to standards used by the team; request peer reviews, validate with other team members e.g. acceptance criteria for user stories."
-          - "Review other Content Engineers artefacts to gain a good understanding of the needs of your role."
-          - "Has an awareness of some tools and techniques such as content models, re-use strategies, taxonomy and metadata, technology selection and configuration"
       - level: 2
         criteria:
+          - "Determines how to optimize the creation of intelligent structured content"
           - "Completes activities and deliverables required to deliver change for a product or process autonomously."
-          - "Ensures artefacts meet acceptable quality standards"
-          - "Analyses features, understands impact of change can analyse what areas will be affected by a change."
-          - " Analyses features, understands impact of change can analyse what areas will be affected by a change."
-          - "Independently creates acceptance criteria for business features with high customer visibility and medium business risk."
-          - "Uses industry standard tools and techniques such as user stories, business and IT process mapping/swimlanes, data modelling, workshops, interviews"
+          - "Analyses requirements, understands impact of change can analyse what areas will be affected by a change."
           - "Identifies processes, product features plus other impacts required to deliver recommendations."
-          - "Has an awareness of legislation impacting our products."
       - level: 3
         criteria:
-          - "Defines and sets the standard for analysis activities and deliverables."          
-          - "Creates acceptance criteria for business features with high customer visibility and high business risk." 
-          - "Advises others on how to create acceptance criteria."
-          - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
-          - "Advises on analysis approach."  
+          - "Has depth of knowledge in a particular area and breadth of knowledge across their domain"
+          - "You know who the experts are and delegate accordingly"
       - level: 4
         criteria:
-          - "Sets the standards for the discipline and ensures they are followed."  
+          - "Has a high-level understanding of all the areas they own"
+          - "Understands the wider business context"
           - "Lead by example."
-          - "Is aware of legislation impacting our business and consults with SME’s to ensure compliance is met."
 ---
 ### About our content engineering progression frameworks
 The content engineering progression framework is a tool that helps content engineers and managers:
@@ -180,8 +172,7 @@ Your manager will work with you on this. None of it will happen mysteriously beh
 
 ### Things to keep in mind
 - There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's content engineering team.
-- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance
-- It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
+- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance and content workflows and lifecycles- It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Progression isn’t an exact science and there will always be some ambiguity 
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.

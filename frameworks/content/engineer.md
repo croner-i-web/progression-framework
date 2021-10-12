@@ -116,36 +116,25 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Learns to maintain existing code, following guidance and training materials"
+          - "Learns to maintain existing content models, taxonomies and code following guidance and training materials"
           - "Fixes simple bugs"
       - level: 2
         criteria:
-          - "Learns to extend existing code, following guidance and training materials"
+          - "Learns to extend existing content models, taxonomies and code, following guidance and training materials"
           - "Can investigate production issues and investigate and fix simple bugs"
-          - "Develops code test first"
-          - "Writes correct code following accepted best practices"
-          - "Design database tables"
-          - "Able to design and implement restful APIs"
-          - "Use Azure Devops to configure deployment of services into multiple environments"
-          - "Fixes bugs involving a number of services and can investigate production issues"
-          - "Uses appropriate algorithms and data structures to solve problems"
-          - "Writes automated unit and integration tests"
+          - "Extends transformations test first"
+          - "Writes transformations following accepted best practices"
       - level: 3
         criteria:
-          - "Uses appropriate design patterns"
-          - "Co-ordinates complex deployments and database migrations"
-          - "Implements distributed systems consisting of multiple interacting services"
-          - "Solves production issues"
-          - "Considers metrics when building a new system"
-          - "Picks appropriate technologies when implementing new services"
+          - "Uses appropriate design patterns for the creation of intelligent structured content"
+          - "Has an awareness of how to optimize the creation of intelligent structured content"
       - level: 4
         criteria:
-          - "Writes code that serves as a definitive example for new engineers"
-          - "Leads the refactoring (de-cruftification) of complex systems"
-          - "Debugs complex production issues at speed"
-          - "Identifies and fixes performance bottlenecks in individual services"
-          - "Explains all aspects of the platform to new engineers"
-          - "Builds processes that scale reliably or can be extended without intervention"
+          - "Determines how to optimize the creation of intelligent structured content"
+          - "Debugs production issues at speed"
+          - "Identifies and fixes content issues"
+          - "Explains all aspects of the content workflow to new engineers"
+          - "Builds solutions that scale reliably or can be extended without intervention"
 ---
 ### About our content engineering progression frameworks
 The content engineering progression framework is a tool that helps content engineers and managers:
@@ -171,7 +160,7 @@ Your manager will work with you on this. None of it will happen mysteriously beh
 
 ### Things to keep in mind
 - There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's content engineering team.
-- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance
+- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance and content workflows and lifecycles
 - It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Progression isn’t an exact science and there will always be some ambiguity 

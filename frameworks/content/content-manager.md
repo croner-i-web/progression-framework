@@ -66,10 +66,10 @@ topics:
       - level: 2
         criteria:
          - "Defines and leads the recruitment process/strategy within the Content Engineering domain"
-          - "Supports the recruitment process for the Content Engineering team e.g. reviewing CVs, attending interviews, feedback on candidates"
-          - "Onboards new content engineers and analysts"
-          - "Coaches and mentors within the Content Engineering domain"
-          - "Understands the company’s goals and makes decisions to help support the bigger picture."
+         - "Supports the recruitment process for the Content Engineering team e.g. reviewing CVs, attending interviews, feedback on candidates"
+         - "Onboards new content engineers and analysts"
+         - "Coaches and mentors within the Content Engineering domain"
+         - "Understands the company’s goals and makes decisions to help support the bigger picture."
       - level: 3
         criteria:
       - level: 4

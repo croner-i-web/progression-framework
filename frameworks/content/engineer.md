@@ -103,6 +103,7 @@ topics:
           - "Proactively improves modules, services, systems and codebases they encounter, 'This doesn't make sense, I'm going to do something about it!'"
           - "Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)"
           - "Builds simple tools or iterates existing tools for the benefit of all engineers"
+          - "Acts as a bridge between Engineering and Authoring teams"
       - level: 4
         criteria:
           - "Positively influences engineers in the wider org"
@@ -111,6 +112,7 @@ topics:
           - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
           - "Shapes the direction of systems designs with less experienced engineers"
           - "Breaks down delivery and knowledge silos in their team"
+          - "Can articlate and stand-in for Authoring teams to Enginneering teams and vice versa"
   - name: "mastery"
     title: "🧠 Mastery"
     content:
@@ -128,6 +130,7 @@ topics:
         criteria:
           - "Uses appropriate design patterns for the creation of intelligent structured content"
           - "Has an awareness of how to optimize the creation of intelligent structured content"
+          - "Has an awareness of all aspects of the content workflow"
       - level: 4
         criteria:
           - "Determines how to optimize the creation of intelligent structured content"

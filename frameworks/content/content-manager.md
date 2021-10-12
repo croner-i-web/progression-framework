@@ -33,58 +33,48 @@ topics:
           - "Considers the audience when delivering a message and makes it appropriate and relevant."
           - "Has an understanding of the needs of your stakeholders in order to support your engagement with them."
           - "Can successfully get buy-in for simple/medium complexity proposals."
+          - "Communicates the area’s role within the larger mission of the company."
       - level: 3
         criteria: 
-          - "Clearly communicates throughout implementation and delivery of solutions."
-          - "Can present complex proposals and get buy-in from stakeholders."
-          - "Communicates to a wider stakeholder group within business, IT and operational teams in Croner-iHR at management/board level."
-          - "Is able to influence and guide stakeholders at mangement/board level. "
       - level: 4
         criteria:
-          - "Communicates the area’s role within the larger mission of the company."
   - name: "impact"
     title: "💥 Impact"
     content:
       - level: 1
         criteria:
-        - ""
+        - "Understands and articulates the content strategy to the business"
       - level: 2
         criteria:
-        - ""
+        - "Defines and promotes the content stratgey to the business"
       - level: 3
         criteria:
         - ""  
       - level: 4
         criteria:
-          - "Defines the strategy within the BA team."  
-          - "Develops business analysis as a discipline, ensures quality and considers working practices."
-          - "Instils BA principles, tools and techniques in other analysts. Works with teams that are struggling."        
   - name: "teamwork and leadership"
     title: "🤝 Teamwork and Leadership"
     content:
       - level: 1
         criteria:
-          - "Is proactive in developing the skills required to progress and become more independent in the role." 
-          - "Supports a more experienced Content Engineer in delivering features."
-      - level: 2
-        criteria:
           - "Onboards new content engineers and analysts"
-          - "Supports the recruitment process for the Content Engineering team e.g. reviewing CVs, attending interviews, feedback on candidates"
           - "Resolves conflicts between stakeholders" 
-          - "Completes activities for features with minimal support from other BAs."
-      - level: 3
-        criteria:
           - "Coaches and mentors within the Content Engineering domain"
           - "Finds learning opportunities for others when reviewing work and follows up"
-          - "Defines and leads the recruitment process/strategy within the Content Engineering domain"
           - "Performance manages other content engineers and analysts e.g. set and monitor objectives, contibutes to reviews"
           - "Completes the analysis activities with no support from other content engineers."
+      - level: 2
+        criteria:
+         - "Defines and leads the recruitment process/strategy within the Content Engineering domain"
+          - "Supports the recruitment process for the Content Engineering team e.g. reviewing CVs, attending interviews, feedback on candidates"
+          - "Onboards new content engineers and analysts"
+          - "Coaches and mentors within the Content Engineering domain"
+          - "Understands the company’s goals and makes decisions to help support the bigger picture."
+      - level: 3
+        criteria:
       - level: 4
         criteria:
-          - "Coaches and mentors individuals within the content engineering domain e.g. feedback to support objectives, promotion, personal development, specific areas to focus on."
-          - "Understands the company’s goals and makes decisions to help support the bigger picture."
-          - "Contributes to maintaining the Croner-i culture in their team, helping new joiners."
-  - name: "influence"
+   - name: "influence"
     title: "👩‍💻 Influence"
     content:
       - level: 1
@@ -96,6 +86,12 @@ topics:
           - "Ensures feedback/analysis is validated internally via more senior colleague or own research before discussing with or presenting to a wider audience."
           - "Improves documentation that is incorrect."
           - "Works as part of a team and can self-assign tasks."
+          - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
+          - "Creates content engineering artefacts and frameworks for the benefit of all content engineers."
+          - "Delivers large well-defined tasks and solves small scope not-well-defined problems."
+          - "Responsible for writing proposals."
+          - "Identifies areas that can be improved and suggests improvements."
+          - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
       - level: 2
         criteria:
           - "Manages assumptions, decisions, risks, issues and dependencies for your feature."
@@ -109,19 +105,13 @@ topics:
           - "Contributes to business analyst meetings/reviews and proactively suggests topics for discussion."
           - "Delivers assigned tasks that meet expected criteria."
           - "Works as part of a team, focuses on tasks that contribute to team goals."
-      - level: 3
-        criteria:
-          - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
-          - "Creates content engineering artefacts and frameworks for the benefit of all content engineers."
-          - "Delivers large well-defined tasks and solves small scope not-well-defined problems."
-          - "Responsible for writing proposals."
-          - "Identifies areas that can be improved and suggests improvements."
-          - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
-      - level: 4
-        criteria:
           - "Influences and drives improvements to practices that the Content Engineering team have responsibility for."
           - "Is aware of the outcomes of retrospectives across all delivery teams and addresses common themes within the Content Engineering team."
           - "Has breadth and depth of knowledge of our organisational structure and the needs of different part of the business. "  
+      - level: 3
+        criteria:
+      - level: 4
+        criteria:
   - name: "mastery"
     title: "🧠 Mastery"
     content:

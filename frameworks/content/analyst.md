@@ -120,12 +120,14 @@ topics:
           - "Participates in risk management and mitigation at the highest industry level"
           - "Leads by example and proves their area is managing risk and compliance within appetite"
           - "Gets involved in and identifies opportunities for colleagues to participate in advisory, strategic, industry bodies to learn and share best practice in their area of business"
+          - "Acts as a bridge between Engineering and Authoring teams"
       - level: 6
         criteria:
           - "Creates a strong risk culture throughout the organisation"
           - "Owns policies and can evidence their compliance"
           - "Contributes to thought leadership on effective and creative risk management throughout the industry"
           - "Proactively identifies holistic measures to robust risk management and implements them company-wide"
+          - "Can articlate and stand-in for Authoring teams to Enginneering teams and vice versa"
   - name: "mastery"
     title: "🧠 Mastery"
     content:

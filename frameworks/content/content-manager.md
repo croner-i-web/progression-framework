@@ -43,15 +43,16 @@ topics:
     content:
       - level: 1
         criteria:
-        - "Understands and articulates the content strategy to the business"
+          - "Understands and articulates the content strategy to the business"
       - level: 2
         criteria:
-        - "Defines and promotes the content stratgey to the business"
+          - "Defines and promotes the content stratgey to the business"
       - level: 3
         criteria:
-        - ""  
+          - ""  
       - level: 4
         criteria:
+          - ""  
   - name: "teamwork and leadership"
     title: "🤝 Teamwork and Leadership"
     content:
@@ -65,15 +66,17 @@ topics:
           - "Completes the analysis activities with no support from other content engineers."
       - level: 2
         criteria:
-         - "Defines and leads the recruitment process/strategy within the Content Engineering domain"
-         - "Supports the recruitment process for the Content Engineering team e.g. reviewing CVs, attending interviews, feedback on candidates"
-         - "Onboards new content engineers and analysts"
-         - "Coaches and mentors within the Content Engineering domain"
-         - "Understands the company’s goals and makes decisions to help support the bigger picture."
+          - "Defines and leads the recruitment process/strategy within the Content Engineering domain"
+          - "Supports the recruitment process for the Content Engineering team e.g. reviewing CVs, attending interviews, feedback on candidates"
+          - "Onboards new content engineers and analysts"
+          - "Coaches and mentors within the Content Engineering domain"
+          - "Understands the company’s goals and makes decisions to help support the bigger picture."
       - level: 3
         criteria:
+          - ""  
       - level: 4
         criteria:
+          - ""  
    - name: "influence"
     title: "👩‍💻 Influence"
     content:
@@ -110,8 +113,10 @@ topics:
           - "Has breadth and depth of knowledge of our organisational structure and the needs of different part of the business. "  
       - level: 3
         criteria:
+          - ""  
       - level: 4
         criteria:
+          - ""  
   - name: "mastery"
     title: "🧠 Mastery"
     content:
@@ -130,8 +135,10 @@ topics:
           - "Lead by example."
       - level: 3
         criteria:
+          - ""  
       - level: 4
         criteria:
+          - ""  
  ---
 ### About our content engineering progression frameworks
 The content engineering progression framework is a tool that helps content engineers and managers:

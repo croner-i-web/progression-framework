@@ -139,7 +139,7 @@ topics:
       - level: 4
         criteria:
           - ""  
- ---
+---
 ### About our content engineering progression frameworks
 The content engineering progression framework is a tool that helps content engineers and managers:
 - make development and career plans

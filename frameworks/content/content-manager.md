@@ -77,7 +77,7 @@ topics:
       - level: 4
         criteria:
           - ""  
-   - name: "influence"
+  - name: "influence"
     title: "👩‍💻 Influence"
     content:
       - level: 1

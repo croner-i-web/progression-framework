@@ -1,14 +1,14 @@
 ---
 path: "/content/engineer"
 title: "⚙️ Content Engineer (Draft)"
-sidebarTitle: "⚙️ Engineer"
+sidebarTitle: "⚙️ Content Engineer"
 sidebarGroup: "Content Engineering"
 yaml: true
 levels: 4
 homepage: true
 topics:
   - name: "communication"
-    title:
+    title: "💬 Communication"
     content:
       - level: 1
         criteria:
@@ -36,7 +36,7 @@ topics:
           - "Shares technical context and direction for less experienced engineers"
           - "Gives direct and constructive feedback to other engineers"
   - name: "impact"
-    title:
+    title: "💥 Impact"
     content:
       - level: 1
         criteria:
@@ -67,8 +67,8 @@ topics:
           - "Considers multiple different solutions for solving a problem"
           - "Breaks down projects into smaller iterative steps that each deliver value"
           - "Makes judgements about when to diverge from the immediate goal to achieve something else"
-  - name: "leadership"
-    title: "👩‍💼 Leadership"
+  - name: "teamwork and leadership"
+    title: "🤝 Teamwork and Leadership"
     content:
       - level: 3
         criteria:
@@ -86,7 +86,7 @@ topics:
           - "Helps facilitate team rituals"
           - "Makes improvements to modules/libraries/services and goes out of their way to help others learn from it"
   - name: "influence"
-    title: "✨ Influence"
+    title: "👩‍💻 Influence"
     content:
       - level: 1
         criteria:
@@ -112,7 +112,7 @@ topics:
           - "Shapes the direction of systems designs with less experienced engineers"
           - "Breaks down delivery and knowledge silos in their team"
   - name: "mastery"
-    title: "🛠️ Mastery"
+    title: "🧠 Mastery"
     content:
       - level: 1
         criteria:
@@ -148,7 +148,7 @@ topics:
           - "Builds processes that scale reliably or can be extended without intervention"
 ---
 ### About our content engineering progression frameworks
-The content engineering progression framework is a tool that helps content engineers, analysts and managers:
+The content engineering progression framework is a tool that helps content engineers and managers:
 - make development and career plans
 - talk about what we’re looking for from content engineers in a consistent way
 - set a fair level of compensation.
@@ -158,7 +158,7 @@ The framework is a compass, not a GPS.
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
 ### How does it work?
-The framework covers all the things we’re looking for from content engineers and analysts at Croner-i. We’re interested in these five elements:
+The framework covers all the things we’re looking for from content engineers at Croner-i. We’re interested in these five elements:
 - Mastery - Your knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better
@@ -171,6 +171,8 @@ Your manager will work with you on this. None of it will happen mysteriously beh
 
 ### Things to keep in mind
 - There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's content engineering team.
+- The content engineering domain covers a range of disociplines including the design and development of Content models, reuse strategy, taxonomies and metadata, governance
+- It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
 - Engineering progression isn’t an exact science and there will always be some ambiguity 

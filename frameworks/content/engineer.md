@@ -132,7 +132,7 @@ topics:
           - "Has an awareness of how to optimize the creation of intelligent structured content"
           - "Has an awareness of all aspects of the content workflow"
           - "Identifies and fixes content issues"
-       - level: 4
+      - level: 4
         criteria:
           - "Determines how to optimize the creation of intelligent structured content"
           - "Debugs production issues at speed"

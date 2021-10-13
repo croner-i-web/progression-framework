@@ -120,34 +120,41 @@ topics:
           - "Participates in risk management and mitigation at the highest industry level"
           - "Leads by example and proves their area is managing risk and compliance within appetite"
           - "Gets involved in and identifies opportunities for colleagues to participate in advisory, strategic, industry bodies to learn and share best practice in their area of business"
-          - "Acts as a bridge between Engineering and Authoring teams"
       - level: 6
         criteria:
           - "Creates a strong risk culture throughout the organisation"
           - "Owns policies and can evidence their compliance"
           - "Contributes to thought leadership on effective and creative risk management throughout the industry"
           - "Proactively identifies holistic measures to robust risk management and implements them company-wide"
-          - "Can articlate and stand-in for Authoring teams to Enginneering teams and vice versa"
   - name: "mastery"
     title: "🧠 Mastery"
     content:
       - level: 1
         criteria:
-          - "Learns to maintain existing content models, taxonomies and code following guidance and training materials"
+          - "Learns to maintain existing content models, taxonomies and application configurations following guidance and training materials"
+          - "Learns to maintain existing transformation code following guidance and training materials"
           - "Fixes simple bugs"
       - level: 2
         criteria:
-          - "Learns to extend existing content models, taxonomies and code, following guidance and training materials"
+          - "Learns to extend existing content models, taxonomies and application configurations following guidance and training materials"
+          - "Learns to extend existing transformation code following guidance and training materials"
           - "Can investigate production issues and investigate and fix simple bugs"
           - "Extends transformations test first with support of a content engineer"
           - "Writes transformations following accepted best practices"
+          - "Has an awareness of deployments, deployment workflow and pipeline code"
       - level: 3
         criteria:
           - "Additional expertise or breadth of knowledge"
+          - "Co-ordinates deployments and migrations of code and content engineering artefacts"
+          - "Maintains deployments and pipeline code"
+          - "Debugs production issues "
       - level: 4
         criteria:
           - "Has depth of knowledge in a particular area and breadth of knowledge across their domain"
-          - "You know who the experts are and delegate accordingly"
+          - "Plans complex deployments and migrations"
+          - "Creates and extends deployment and pipeline code"
+          - "Creates artefacts and code that serves as a definitive example for new engineers"
+          - "Debugs complex production issues at speed"
       - level: 5
         criteria:
           - "Wide breadth of knowledge"

@@ -181,7 +181,9 @@ Your manager will work with you on this. None of it will happen mysteriously beh
 
 ### Things to keep in mind
 - There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's content engineering team.
-- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance and content workflows and lifecycles- It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
+- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance and content workflows and lifecycles
+- It also strays into the software engineering domain with coding of content transformations 
+- It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Progression isn’t an exact science and there will always be some ambiguity 
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.

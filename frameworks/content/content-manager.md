@@ -18,7 +18,7 @@ topics:
           - "Seeks feedback and guidance from other content engineers and colleagues."
           - "Accepts feedback graciously.  "
           - "Manages own workload and highlights to manager when over-loaded or not enough to do."
-          - "Look to opportunities to support all disciplines in your delivery team to gain an understanding of what they do."
+          - "Look to opportunities to support all disciplines in your delivery to gain an understanding of what they do."
           - "Proactively takes action to develop and improve your communication skills and understand how to approach different audiences."
           - "Transparent about mistakes you have made."
           - "Proactively seeks feedback from the people around you."
@@ -123,14 +123,14 @@ topics:
       - level: 1
         criteria:
           - "Has an awareness and knowledge of all areas of the content engineering domain"
-          - "Has an awareness and knowledge of all how to optimize the creation of intelligent structured content"
+          - "Has an awareness and knowledge of how to optimize the creation of intelligent structured content"
           - "Supports a more experienced Content Engineer and/or Analysts in completing research and analysis to help address a particular problem or business need."
           - "Supports a more experienced Content Engineer in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
       - level: 2
         criteria:
-          - "Has extended knowledge of all areas of the content engineering domain "
+          - "Has extended knowledge of all areas of the content engineering domain"
           - "Determines how to optimize the creation of intelligent structured content"
-          - "Has an awareness and knowledge areas of the software engineering domain"
+          - "Has an awareness and knowledge of areas of the software engineering domain"
           - "Understands the wider business context"
           - "Lead by example."
       - level: 3

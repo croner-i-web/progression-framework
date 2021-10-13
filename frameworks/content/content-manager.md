@@ -122,15 +122,15 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Has an awareness and knowledge of all areas of the content engineering domain such as content models, re-use strategies, taxonomy and metadata, content workflows, technology selection and configuration"
+          - "Has an awareness and knowledge of all areas of the content engineering domain"
           - "Has an awareness and knowledge of all how to optimize the creation of intelligent structured content"
           - "Supports a more experienced Content Engineer and/or Analysts in completing research and analysis to help address a particular problem or business need."
           - "Supports a more experienced Content Engineer in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
       - level: 2
         criteria:
+          - "Has extended knowledge of all areas of the content engineering domain "
           - "Determines how to optimize the creation of intelligent structured content"
-          - "Has a high-level understanding of all areas of the content engineering domain they own"
-          - "Has a high-level understanding of all areas they own"
+          - "Has an awareness and knowledge areas of the software engineering domain"
           - "Understands the wider business context"
           - "Lead by example."
       - level: 3

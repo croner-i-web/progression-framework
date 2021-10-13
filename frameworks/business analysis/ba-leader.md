@@ -72,13 +72,11 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Develops an awareness of the organisational structure and the needs of different part of the business."
-          - "Develops rapport with members of your delivery team."
-          - "Develops an awareness of stakeholders in Croner-iHR; their role and influence in the organisation."
-          - "Attends planning meetings, inputting on improving quality early on and can identify simple risks."
-          - "Ensures feedback/analysis is validated internally via more senior colleague or own research before discussing with or presenting to a wider audience."
-          - "Improves documentation that is incorrect."
-          - "Works as part of a team and can self-assign tasks."
+          - "Discover opportunities for business and system improvements."
+          - "Delivers bigger tasks (L/XL) and solves not so well defined problems."
+          - "Discuss process improvements and agree on their implementation within the team."
+          - "Proactively suggest, discuss and implement team best practices, improved ways of working."
+          - "Encourage continuous improvement of processes impacting the team and wider business."
       - level: 2
         criteria:
           - "Manages assumptions, decisions, risks, issues and dependencies for your feature."

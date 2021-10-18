@@ -12,19 +12,20 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Accepts feedback graciously."
-          - "Look at opportunities to support all disciplines in the delivery team and gain understanding of what they do. "
+          - "Accepts feedback graciously and actions the feedback."
+          - "Looks at opportunities to support all disciplines in the delivery team and gain understanding of what they do."
           - "Proactively takes action to develop and improve team communication skills and understanding of how to approach different audiences."
-          - "Provide the right level of detail to the BA team members and also business stakeholders."
           - "Engages but listens."
           - "Be clear on the objectives of communication."
+          - "Clearly communicates the long-term vision to the business and the team."
           
       - level: 2
         criteria:
-          - "Proactively provides feedback to other BAs to improve various BA skills."
-          - "Discusses and provides feedback to wider team peers across different disciplines."
+          - "Proactively provides feedback to other business analysts to improve various skills."
+          - "Communicates to a wider stakeholder group within Croner-i at peer level."
+          - "Clear and effective communication with external stakeholders and businesses."
           - "Proactively gives feedback to those you work with across different disciplines e.g. UX, QA."
-          - "Communicates to a wider stakeholder group within business, IT and operational teams in Croner-i at peer level."
+          
         
       - level: 3
         criteria: 
@@ -39,16 +40,14 @@ topics:
       - level: 1
         criteria:
           - "Onboards new business analysts to the team." 
-          - "Resolve conflicts within the team and stakeholders."
           - "Manage and mentor the BA team."
           - "Support the BAs in delivering various projects and unblocking them from various challenges."
           - "Build relationships with business stakeholders at all levels."
-          - "Finds learning opportunities for others while reviewing their work."
-          - "Manage and help improve other BAs performance by setting personal & career objectives."
+          - "Manage and help improve other BAs performance by agreeing and setting personal & career objectives."
           - "Analyses data/other metrics and presents the findings to the business stakeholders independently."
           - "Build and manage roadmaps for implementing business change."
           - "Introduce an open workshop culture where other BAs discuss and learn from each other’s experiences."
-          - "Identifies improvements within business analysis domain."
+          - "Identify learning/improvement opportunities within business analysis domain."
 
       - level: 2
         criteria:
@@ -57,6 +56,7 @@ topics:
           - "Understands short and long term business goals and make decisions to support in their achievement." 
           - "Transparent and open leadership approach."
           - "Represents CIL business analysis team to other departments and areas of peninsula"
+          
       - level: 3
         criteria:
           - ""
@@ -71,15 +71,16 @@ topics:
       - level: 1
         criteria:
           - "Discover opportunities for business and system improvements."
-          - "Delivers bigger tasks (L/XL) and solves not so well defined problems."
+          - "Deliver bigger tasks (L/XL) and analyses & provides solutions to not so well defined bysiness problems."
           - "Discuss process improvements and agree on their implementation within the team."
-          - "Proactively suggest, discuss and implement team best practices, improved ways of working."
+          - "Proactively suggest, discuss and implement team best practices & improved ways of working."
           - "Encourage continuous improvement of processes impacting the team and wider business."
       - level: 2
         criteria:
-          - "Evaluates business processes."
+          - "Evaluate business processes."
           - "Recommend efficiencies and improvements, implement changes."
-          - "Proactively raises issues and take ownership of actions."
+          - "Proactively raises issues and takes ownership of actions."
+          
       - level: 3
         criteria:
           - ""
@@ -101,7 +102,7 @@ topics:
         criteria:
           - "Ensures compliance is met for all legislations impacting the business."
           - "Delegates and tracks initiatives."
-          - "Wide understanding of scaling initiatives in the org (risks/investment)."
+          - "Understanding of measuring initiatives in the org (eg:risks/investment)."
           - "Has extended knowledge of all areas of business analysis domain."
 
           
@@ -118,22 +119,22 @@ topics:
     content:
       - level: 1
         criteria:
-        - "Defines strategy and implement it within the BA team."
+        - "Defines strategy and implements it within the BA team."
         - "Unblocks problems of any size for the team."
         - "Encourages the team to set ambitious goals and provide support in achieving them."
         - "Retains accountability until a project is fully closed."
-        - "Ensures the BAs have a “own mistakes and learn from them” mindset."
+        - "Ensures the BAs have a “learn from mistakes/challenges” mindset."
         - "Embeds customer focused understanding within the team while delivering projects."
         - "Represents CIL Business Analysis team to other businesses."
-        - "Encourages others to learn new skills."
+       
 
       - level: 2
         criteria:
-        - "Assess the long-term business goals and creates roadmaps to achieve them."
-        - "Anticipates short-terms problems/risks and take ownership."
-        - "Delegates the role to instil BA principles, tools and techniques in other analysts."
-        - "Presents vision to encourage setting goals and helps direct execution."
-        - "Will consistently course-correct a team."
+        - "Assess the long-term business goals and create/agree roadmaps to achieve them."
+        - "Anticipates short-term problems/risks and takes ownership."
+        - "Instil BA principles, tools and techniques in other analysts."
+        - "Presents vision to encourage setting goals and helps execution."
+        - "Consistently course-correct the team."
 
       - level: 3
         criteria:

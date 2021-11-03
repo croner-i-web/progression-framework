@@ -1,64 +1,12 @@
 ---
 path: "/content/engineer"
 title: "⚙️ Content Engineer (Draft)"
-sidebarTitle: "⚙️ Engineer"
+sidebarTitle: "⚙️ Content Engineer"
 sidebarGroup: "Content Engineering"
 yaml: true
 levels: 6
-homepage: false
+homepage: true
 topics:
-  - name: "knowledge"
-    title: "🧠 Knowledge"
-    content:
-      - level: 1
-        criteria:
-          - "Learning just as much as adding value"
-          - "Has enough knowledge to make informed decisions"
-          - "Doesn’t necessarily know what they don’t know"
-      - level: 2
-        criteria:
-          - "Identifies areas/subjects they don’t know and proactively seeks out knowledge"
-          - "Increased domain knowledge"
-          - "Aware of their weaknesses"
-      - level: 3
-        criteria:
-          - "Additional expertise or breadth of knowledge"
-      - level: 4
-        criteria:
-          - "Has depth of knowledge in a particular area and breadth of knowledge across their domain"
-          - "You know who the experts are and delegate accordingly"
-      - level: 5
-        criteria:
-          - "Wide breadth of knowledge"
-          - "Can easily context switch within their area and pick up new concepts"
-      - level: 6
-        criteria:
-          - "Has a high-level understanding of all the areas they own"
-          - "Understands the wider business context"
-  - name: "impact"
-    title: "💥 Impact"
-    content:
-      - level: 1
-        criteria:
-          - "Independently works on small, low-impact, well-defined task"
-          - "Looks to optimise existing work (eg Processes, procedures, products, etc)"
-      - level: 2
-        criteria:
-          - "Delivers small, well-defined tasks/projects"
-          - "Delegated low-impact problems to solve"
-      - level: 3
-        criteria:
-          - "Identifies problems to solve"
-          - "Owns the implementation of the solution"
-      - level: 4
-        criteria:
-          - "Can take a long-term vision and define building blocks to get there"
-      - level: 5
-        criteria:
-          - "Understands the big picture and integrates company goals into their area"
-      - level: 6
-        criteria:
-          - "Is the accountable exec for high-impact projects"
   - name: "communication"
     title: "💬 Communication"
     content:
@@ -83,8 +31,32 @@ topics:
       - level: 6
         criteria:
           - "An effective and inspiring communicator internally and externally"
-  - name: "teamwork"
-    title: "🤝 Teamwork"
+  - name: "impact"
+    title: "💥 Impact"
+    content:
+      - level: 1
+        criteria:
+          - "Independently works on small, low-impact, well-defined task"
+          - "Looks to optimise existing work (eg Processes, procedures, products, etc)"
+      - level: 2
+        criteria:
+          - "Delivers small, well-defined tasks/projects"
+          - "Delegated low-impact problems to solve"
+      - level: 3
+        criteria:
+          - "Identifies problems to solve"
+          - "Owns the implementation of the solution"
+      - level: 4
+        criteria:
+          - "Can take a long-term vision and define building blocks to get there"
+      - level: 5
+        criteria:
+          - "Understands the big picture and integrates company goals into their area"
+      - level: 6
+        criteria:
+          - "Is the accountable exec for high-impact projects"
+  - name: "teamwork and leadership"
+    title: "🤝 Teamwork and Leadership"
     content:
       - level: 1
         criteria:
@@ -120,8 +92,8 @@ topics:
           - "Leader of business culture and strategy"
           - "You own your area’s structure"
           - "Strong leadership and coaching abilities"
-  - name: "conduct"
-    title: "👩‍💻 Conduct"
+  - name: "influence"
+    title: "👩‍💻 Influence"
     content:
       - level: 1
         criteria:
@@ -154,4 +126,76 @@ topics:
           - "Owns policies and can evidence their compliance"
           - "Contributes to thought leadership on effective and creative risk management throughout the industry"
           - "Proactively identifies holistic measures to robust risk management and implements them company-wide"
+  - name: "mastery"
+    title: "🧠 Mastery"
+    content:
+      - level: 1
+        criteria:
+          - "Learns to maintain existing content models, taxonomies and application configurations following guidance and training materials"
+          - "Learns to maintain existing transformation code following guidance and training materials"
+          - "Fixes simple bugs"
+      - level: 2
+        criteria:
+          - "Learns to extend existing content models, taxonomies and application configurations following guidance and training materials"
+          - "Learns to extend existing transformation code following guidance and training materials"
+          - "Can investigate production issues and investigate and fix simple bugs"
+          - "Extends transformations test first with support of a content engineer"
+          - "Writes transformations following accepted best practices"
+          - "Has an awareness of deployments, deployment workflow and pipeline code"
+      - level: 3
+        criteria:
+          - "Additional expertise or breadth of knowledge"
+          - "Co-ordinates deployments and migrations of code and content engineering artefacts"
+          - "Maintains deployments and pipeline code"
+          - "Debugs production issues "
+      - level: 4
+        criteria:
+          - "Has depth of knowledge in a particular area and breadth of knowledge across their domain"
+          - "Plans complex deployments and migrations"
+          - "Creates and extends deployment and pipeline code"
+          - "Creates artefacts and code that serves as a definitive example for new engineers"
+          - "Debugs complex production issues at speed"
+      - level: 5
+        criteria:
+          - "Wide breadth of knowledge"
+          - "Can easily context switch within their area and pick up new concepts"
+      - level: 6
+        criteria:
+          - "Has a high-level understanding of all the areas they own"
+          - "Understands the wider business context"
 ---
+### About our content engineering progression frameworks
+The content engineering progression framework is a tool that helps content engineers and managers:
+- make development and career plans
+- talk about what we’re looking for from content engineers in a consistent way
+- set a fair level of compensation.
+
+The framework is a compass, not a GPS.
+
+It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
+
+### How does it work?
+The framework covers all the things we’re looking for from content engineers at Croner-i. We’re interested in these five elements:
+- Mastery - Your knowledge and technical capability
+- Impact - The size, scope and value of what you deliver
+- Influence - How you change the world around you for the better
+- Comms & Feedback - How you interact with others
+- Teamwork & Leadership - How people around you become better and more impactful
+
+We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+
+Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
+
+### Things to keep in mind
+- There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's content engineering team.
+- The content engineering domain covers a range of disciplines including the design and development of content models, reuse strategy, taxonomies and metadata, governance and content workflows and lifecycles
+- It also strays into the software engineering domain with coding of content transformations 
+- It is helpful to have a broad understanding of a range of disciplines, the ability to grasp problems, identify solutions and work with others to implement them quickly and efficiently
+- The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
+- Progression isn’t an exact science and there will always be some ambiguity 
+- This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
+- If you still have any questions, please ask your manager.
+
+### Give us your feedback!
+This is only the first version of our framework and we really want your feedback.
+We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.

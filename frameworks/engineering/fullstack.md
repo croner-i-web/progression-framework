@@ -211,6 +211,22 @@ We sort them into four levels, and we try to give specific examples of behaviour
 
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
+### What do the Levels mean?
+
+We are utilising levels, as we know that job titles are not always consistent and change over time. Practically they allow us to measure progression and maintain compensation benchmark ranges.
+
+#### What are the roles then?
+
+This is an example of how titles may be into Levels:
+
+- Level 1 - Software Engineer I - Entry level, graduate, apprentice etc software engineer
+- Level 2 - Software Engineer II - Engineer with some experience, has progressed beyond the entry level
+- Level 3 - Software Engineer III - Engineer who works automously and provides occasional guidance to others
+- Level 4 - Senior Software Engineer - Engineer who may work as a lead on some projects, making design/implementation decisions and provides guidance to the team 
+- Level 5 - Principal Software Engineer - Engineer who can move across multiple platforms and teams and provide assistance
+
+Notice we have not used the term junior, as it is all too often used in a derogatory way.
+
 ### Things to keep in mind
 - There are many different ways to progress and be valuable to Croner-i as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Croner-i's engineering team.
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!

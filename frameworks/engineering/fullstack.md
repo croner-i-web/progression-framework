@@ -217,7 +217,7 @@ We are utilising levels, as we know that job titles are not always consistent an
 
 #### What are the roles then?
 
-This is an example of how titles may be into Levels:
+This is an example of how titles may be across the Levels:
 
 - Level 1 - Software Engineer I - Entry level, graduate, apprentice etc software engineer
 - Level 2 - Software Engineer II - Engineer with some experience, has progressed beyond the entry level

@@ -1,10 +1,10 @@
 ---
 path: "/engineering/fullstack"
-title: "🛠️ Full Stack Engineering Framework"
-sidebarTitle: "🛠️ Full Stack"
+title: "🧰 Full Stack Engineering Framework"
+sidebarTitle: "🧰 Full Stack"
 sidebarGroup: "engineering"
 yaml: true
-levels: 4
+levels: 5
 homepage: true
 topics:
   - name: "communication"

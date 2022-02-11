@@ -12,8 +12,8 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Actively communicates what they are working on."
-          - "Seeks out feedback."
+          - "Actively communicates what they are working on"
+          - "Seeks out feedback"
       - level: 2
         criteria:
           - "Can deliver their work to their team and others"

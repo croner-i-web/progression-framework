@@ -50,9 +50,12 @@ topics:
         criteria:
           - "Identifies problems to solve"
           - "Owns the implementation of the solution"
+          - "Is able to make minor enhancements to their projects with their local team"
       - level: 4
         criteria:
           - "Can take a long-term vision and define building blocks to get there"
+          - "Implements change to significantly improve experience for the team"
+          - "Involvement in code practice or communities of practices"
       - level: 5
         criteria:
           - "Understands the big picture and integrates company goals into their area"
@@ -64,12 +67,13 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Actively communicates what they are working on"
+          - "Actively communicates what they are working on with clear concise updates"
           - "Seeks out feedback"
       - level: 2
         criteria:
           - "Can deliver their work to their team and others"
-          - "Proactively gives feedback to those they work with"
+          - "Proactively gives helpful and actionable feedback to those they work with"
+          - "Accepts feedback graciously"
       - level: 3
         criteria:
           - "Clearly communicates throughout implementation of solutions"
@@ -83,6 +87,37 @@ topics:
       - level: 6
         criteria:
           - "An effective and inspiring communicator internally and externally"
+  - name: "initiative"
+    title: "💡 Initiative"
+    content:
+      - level: 1
+        criteria:
+          - "Uses initiative to self study and learns from the work of others"
+          - "Prioritises their own learning to better serve their team"
+      - level: 2
+        criteria:
+          - "Sets goals for professional growth with line manager or team lead"
+          - "Proactively improves the test coverage and documentation of existing code"
+          - "Proactively attempts to unblock themselves, but seeks timely guidance where needed."
+      - level: 3
+        criteria:
+          - "Occasionally identifies areas of improvement for their team"
+          - "Works confidently with other teams in the business in understanding the work they are doing by asking questions"
+          - "Contributes to the observability of systems"
+      - level: 4
+        criteria:
+          - "Often identifies areas of improvement for their team with various suggestions"
+          - "Work with their team and clients to identify opportunities that deliver more value"
+      - level: 5
+        criteria:
+          - "Provides positive change through new ideas"
+          - "Takes a proactive approach to suggesting and implementing improvements for the projects"
+      - level: 6
+        criteria:
+          - "Identifies the next problem to be solved and complexity to reduce"
+          - "Mentor teams on improving processes"
+          - "Constantly looks for improvement within their responsibility relating to technology, structure, process, or people."
+          - "Identify issues across various projects and makes sure they are discussed and addressed"
   - name: "teamwork"
     title: "🤝 Teamwork"
     content:

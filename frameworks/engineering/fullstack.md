@@ -16,6 +16,7 @@ topics:
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
+          - "Learns from Peer reviews to improve their work"
       - level: 2
         criteria:
           - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"

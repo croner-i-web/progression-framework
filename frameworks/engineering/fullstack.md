@@ -16,7 +16,6 @@ topics:
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
-          - "Learns from Peer reviews to improve their work"
       - level: 2
         criteria:
           - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
@@ -54,6 +53,7 @@ topics:
           - "Delivers assigned tasks, working with a more senior team member, and able to take PR feedback to improve their work"
           - "Independently works on small, low-impact, well-defined task"
           - "Looks to optimise existing work (eg Processes, procedures, products, etc)"
+          - "Learns from Peer reviews to improve their work"
       - level: 2
         criteria:
           - "Works for the team, focuses on tasks that contribute to team goals"

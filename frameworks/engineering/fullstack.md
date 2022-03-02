@@ -45,6 +45,14 @@ topics:
           - "Engages people in non-technical roles to understand the outcomes they are looking to achieve and works with them to provide guidance on how they can be met in a an agile engineering way"
           - "Shares technical direction for less experienced engineers and looks to help them to provide direction to others"
           - "Gives direct and constructive feedback to other within the team to help achieve personal and team outcomes"
+  - name: "initiative"
+    title: "💡 Initiative"
+    content:
+      - level: 1
+      - level: 2
+      - level: 3
+      - level: 4
+      - level: 5
   - name: "impact"
     title:
     content:

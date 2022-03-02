@@ -37,6 +37,7 @@ export default class Index extends React.Component<Props> {
               <Subtitle>Influence:</Subtitle>
               <DescriptionText>How you change the world around you for the better.</DescriptionText>
               <Subtitle>Communication and Feedback</Subtitle><DescriptionText>How you interact with others.</DescriptionText>
+              <Subtitle>Initiative</Subtitle><DescriptionText>How you act and take charge before others do.</DescriptionText>
               <Subtitle>Leadership:</Subtitle>
               <DescriptionText>How you help those around you become better and more impactful. To make sure people can understand what each means in their work, the framework’s filled with real-world examples of times we’ve seen them used by our teams day-to-day.
               In time, we’ll make sure we illustrate every item on the framework with a few meaningful, practical examples.

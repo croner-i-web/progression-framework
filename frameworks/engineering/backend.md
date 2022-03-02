@@ -38,6 +38,15 @@ topics:
           - "Helps people in non-technical roles understand technical constraints / trade-offs"
           - "Shares technical context and direction for less experienced engineers"
           - "Gives direct and constructive feedback to other engineers"
+  - name: "initiative"
+    title: "💡 Initiative"
+    content:
+    - level: 1
+    - level: 2
+      criteria:
+        - "Proactively improves the test coverage and documentation of existing code"
+    - level: 3
+    - level: 4
   - name: "impact"
     title:
     content:

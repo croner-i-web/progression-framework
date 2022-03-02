@@ -45,6 +45,16 @@ topics:
           - "Engages people in non-technical roles to understand the outcomes they are looking to achieve and works with them to provide guidance on how they can be met in a an agile engineering way"
           - "Shares technical direction for less experienced engineers and looks to help them to provide direction to others"
           - "Gives direct and constructive feedback to other within the team to help achieve personal and team outcomes"
+  - name: "initiative"
+    title: "💡 Initiative"
+    content:
+      - level: 1
+      - level: 2
+        criteria:
+          - "Proactively improves the test coverage and documentation of existing code"
+      - level: 3
+      - level: 4
+      - level: 5
   - name: "impact"
     title:
     content:
@@ -53,6 +63,7 @@ topics:
           - "Delivers assigned tasks, working with a more senior team member, and able to take PR feedback to improve their work"
           - "Independently works on small, low-impact, well-defined task"
           - "Looks to optimise existing work (eg Processes, procedures, products, etc)"
+          - "Learns from Peer reviews to improve their work"
       - level: 2
         criteria:
           - "Works for the team, focuses on tasks that contribute to team goals"

@@ -29,6 +29,15 @@ topics:
         criteria:
           - "Able to discuss complex technical problems to non-technical people"
           - "Honest about their own mistakes and areas for improvement"
+  - name: "initiative"
+    title: "💡 Initiative"
+    content:
+      - level: 1
+      - level: 2
+        criteria:
+          - "Proactively improves the test coverage and documentation of existing code"
+      - level: 3
+      - level: 4
   - name: "impact"
     title:
     content:

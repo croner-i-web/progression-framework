@@ -50,6 +50,8 @@ topics:
     content:
       - level: 1
       - level: 2
+        criteria:
+          - "Proactively improves the test coverage and documentation of existing code"
       - level: 3
       - level: 4
       - level: 5

@@ -97,7 +97,6 @@ topics:
       - level: 2
         criteria:
           - "Sets goals for professional growth with line manager or team lead"
-          - "Proactively improves the test coverage and documentation of existing code"
           - "Proactively attempts to unblock themselves, but seeks timely guidance where needed."
       - level: 3
         criteria:

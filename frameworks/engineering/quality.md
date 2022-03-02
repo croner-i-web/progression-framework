@@ -39,6 +39,14 @@ topics:
           - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
           - "Talks to non-technical stakeholders on appropriate level of abstraction"
           - "Transparent about feedback they have received and what they are going to do differently"
+  - name: "initiative"
+    title: "💡 Initiative"
+    content:
+      - level: 1
+      - level: 2
+      - level: 3
+      - level: 4
+      - level: 5      
   - name: "impact"
     title:
     content:
